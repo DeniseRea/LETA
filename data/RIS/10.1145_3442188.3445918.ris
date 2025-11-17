@@ -1,0 +1,18 @@
+TY  - CPAPER
+DO  - 10.1145/3442188.3445918
+UR  - http://dx.doi.org/10.1145/3442188.3445918
+TI  - Towards Accountability for Machine Learning Datasets: Practices from Software Engineering and Infrastructure
+T2  - Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency
+AU  - Hutchinson, Ben
+AU  - Smart, Andrew
+AU  - Hanna, Alex
+AU  - Denton, Remi
+AU  - Greer, Christina
+AU  - Kjartansson, Oddur
+AU  - Barnes, Parker
+AU  - Mitchell, Margaret
+PY  - 2021
+DA  - 2021/03
+PB  - ACM
+SP  - 560-575
+ER  -
