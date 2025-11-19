@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1763521753.2581 "c:/Users/mesia/Desktop/Universidad/Lectura/1P/Proyecto/LETA/IA_Development.tex" "IA_Development.pdf" "IA_Development" 1763521754.91083 0
+["pdflatex"] 1763522439.48398 "c:/Users/mesia/Desktop/Universidad/Lectura/1P/Proyecto/LETA/IA_Development.tex" "IA_Development.pdf" "IA_Development" 1763522440.8481 0
   "C:/Users/mesia/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1763517137 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/mesia/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1761014225 13321623 b57673e4cba46000b1cefefb4e96bcab ""
   "C:/Users/mesia/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -64,10 +64,14 @@
   "C:/Users/mesia/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1751005717 30351 a2b09edc6c93a742566b222c33d0278e ""
   "C:/Users/mesia/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ot1ptm.fd" 1585253778 1007 15056f4a61917ceed3a44e4ac11fcc52 ""
   "C:/Users/mesia/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "IA_Development.aux" 1763521754 3352 afb2b54f122e23518067cd42130c7456 "pdflatex"
-  "IA_Development.tex" 1763521750 20619 e6e05860a18bb677eeccd910af35bed3 ""
+  "IA_Development.aux" 1763522440 4312 bcb62310f3fd879dda9f606f4da5bf8e "pdflatex"
+  "IA_Development.tex" 1763522437 22315 eae4c7f8330f8f91a3382d26450adcb3 ""
   "IEEEtran.cls" 1763517073 288304 5b2e4fa15b0f7eabb840ebf67df4c0f7 ""
-  "c:/Users/mesia/Desktop/Universidad/Lectura/1P/Proyecto/LETA/IA_Development.tex" 1763521750 20619 e6e05860a18bb677eeccd910af35bed3 ""
+  "c:/Users/mesia/Desktop/Universidad/Lectura/1P/Proyecto/LETA/IA_Development.tex" 1763522437 22315 eae4c7f8330f8f91a3382d26450adcb3 ""
+  "images/Libreria_ResearchRabbit.png" 1763517074 301008 4479042d6dc5c0b746770f3599084a1b ""
+  "images/connectedpapers.png" 1763521773 97602 22a732e5148729794b0bbaefabafc716 ""
+  "images/importar_desde_Zotero.png" 1763517074 34499 d795845bfbe74e6c13e925846d6e4707 ""
+  "images/libreria_Zotero.png" 1763517074 78591 fdfb2e08d0b47b887e27a31d7eb3b96f ""
   (generated)
   "IA_Development.aux"
   "IA_Development.log"
