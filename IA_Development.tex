@@ -18,22 +18,22 @@ Inteligencia Artificial Aplicada al Desarrollo de Software\\
 en Contextos Empresariales}
 
 \author{\IEEEauthorblockN{1\textsuperscript{st} Mesias Orlando Mariscal Oña}
-\IEEEauthorblockA{\textit{dept. name of organization (of Aff.)} \\
-\textit{name of organization (of Aff.)}\\
-City, Country \\
-email address or ORCID}
+\IEEEauthorblockA{\textit{Ciencias de la Computación} \\
+\textit{UFA ESPE}\\
+Quito, Ecuador \\
+momariscal@espe.edu.ec}
 \and
 \IEEEauthorblockN{2\textsuperscript{nd} Denise Noemi Rea Diaz}
-\IEEEauthorblockA{\textit{dept. name of organization (of Aff.)} \\
-\textit{name of organization (of Aff.)}\\
-City, Country \\
-email address or ORCID}
+\IEEEauthorblockA{\textit{Ciencias de la Computación} \\
+\textit{UFA ESPE}\\
+Quito, Ecuador \\
+dnrea@espe.edu.ec}
 \and
 \IEEEauthorblockN{3\textsuperscript{rd} Julio Enrique Viche Castillo}
-\IEEEauthorblockA{\textit{dept. name of organization (of Aff.)} \\
-\textit{name of organization (of Aff.)}\\
-City, Country \\
-email address or ORCID}
+\IEEEauthorblockA{\textit{Ciencias de la Computación} \\
+\textit{UFA ESPE}\\
+Quito, Ecuador \\
+jeviche@espe.edu.ec}
 }
 
 \maketitle
@@ -63,49 +63,39 @@ La estructura sigue las directrices del proyecto académico de formulación del 
 
 Para contextualizar el problema de investigación, se realizó una búsqueda sistemática de literatura en múltiples bases de datos durante noviembre de 2025. El proceso de gestión bibliográfica se realizó mediante Zotero (Fig. \ref{fig:zotero}), complementado con herramientas de descubrimiento como Research Rabbit (Fig. \ref{fig:researchrabbit}) y Connected Papers (Fig. \ref{fig:connectedpapers}) para identificar redes de citaciones y literatura relacionada.
 
-\subsubsection{Bases de datos consultadas:}
+\subsubsection{Bases de Datos Consultadas}
 \begin{itemize}
-\item \textbf{OpenAlex API:} Base de datos bibliográfica integral que indexa publicaciones de ACM, IEEE, arXiv y Scopus (8 artículos recuperados).
-\item \textbf{CrossRef API:} Registro oficial de DOIs incluyendo IEEE, ACM, Springer (2 artículos recuperados).
-\item \textbf{Semantic Scholar API:} Análisis de contenido basado en ML para identificación de relevancia (consultas iniciales).
+\item \textbf{IEEE Xplore:} Biblioteca digital de IEEE que indexa publicaciones en ingeniería eléctrica, ciencias de la computación y tecnología (5 artículos recuperados).
+\item \textbf{SpringerLink:} Plataforma de publicaciones científicas de Springer Nature con acceso a journals y conference proceedings (3 artículos recuperados).
+\item \textbf{Google Scholar:} Motor de búsqueda académico que indexa literatura científica multidisciplinaria (2 artículos recuperados).
 \item \textbf{Zotero:} Herramienta de gestión bibliográfica para organización y exportación de referencias (Fig. \ref{fig:zotero}).
 \item \textbf{Research Rabbit:} Plataforma visual para descubrimiento de papers conectados y análisis de redes de citaciones (Fig. \ref{fig:researchrabbit}).
 \end{itemize}
 
-\begin{figure}[htbp]
-\centerline{\includegraphics[width=0.48\textwidth]{images/libreria_Zotero.png}}
-\caption{Biblioteca de referencias en Zotero con los 10 artículos científicos organizados.}
-\label{fig:zotero}
-\end{figure}
-
-\begin{figure}[htbp]
-\centerline{\includegraphics[width=0.48\textwidth]{images/Libreria_ResearchRabbit.png}}
-\caption{Visualización de red de citaciones en Research Rabbit para descubrimiento de literatura relacionada.}
-\label{fig:researchrabbit}
-\end{figure}
-
-\subsubsection{Cadenas de búsqueda utilizadas:}
+\subsubsection{Cadenas de Búsqueda Utilizadas}
 
 Las siguientes cadenas de búsqueda fueron aplicadas sistemáticamente:
 
 \begin{enumerate}
-\item \textbf{Búsqueda Principal (OpenAlex):}
+\item \textbf{IEEE Xplore:}
 \begin{quote}
-\small{``(machine learning OR deep learning OR artificial intelligence OR generative AI) AND (software development OR software engineering) AND (enterprise OR industry OR business) AND published\_date:[2021-01-01 TO 2025-12-31]''}
+\small{(``machine learning'' OR ``deep learning'' OR ``artificial intelligence'') AND (``software engineering'' OR ``software development'') AND (``enterprise'' OR ``industry'')}
 \end{quote}
 
-\item \textbf{Búsqueda Alternativa (OpenAlex):}
+\item \textbf{SpringerLink:}
 \begin{quote}
-\small{``(AI adoption OR digital transformation OR technology acceptance) AND software engineering AND enterprise AND published\_date:[2021-01-01 TO 2025-12-31]''}
+\small{(``machine learning'' OR ``artificial intelligence'') AND ``software development'' AND (``effort estimation'' OR ``case study'')}
 \end{quote}
 
-\item \textbf{Búsqueda Específica (CrossRef):}
+\item \textbf{Google Scholar:}
 \begin{quote}
-\small{``generative AI software development chatgpt copilot 2023 2024 2025''}
+\small{``generative AI'' AND ``agile'' AND ``software development''}
 \end{quote}
 \end{enumerate}
 
-\subsubsection{Criterios de inclusión y exclusión:}
+\subsubsection{Criterios de Inclusión y Exclusión}
+
+Se establecieron criterios rigurosos para garantizar la calidad y relevancia de los artículos seleccionados.
 
 \textbf{Criterios de Inclusión:}
 \begin{itemize}
@@ -116,6 +106,8 @@ Las siguientes cadenas de búsqueda fueron aplicadas sistemáticamente:
 \item Contiene validación empírica o análisis en contexto empresarial.
 \end{itemize}
 
+
+
 \textbf{Criterios de Exclusión:}
 \begin{itemize}
 \item Trabajos no relacionados con desarrollo de software.
@@ -123,18 +115,6 @@ Las siguientes cadenas de búsqueda fueron aplicadas sistemáticamente:
 \item Artículos sin DOI verificable.
 \item Papers sobre IA general sin conexión con ingeniería de software.
 \end{itemize}
-
-\begin{figure}[htbp]
-\centerline{\includegraphics[width=0.48\textwidth]{images/connectedpapers.png}}
-\caption{Mapa de similitud de Connected Papers mostrando relaciones entre artículos revisados.}
-\label{fig:connectedpapers}
-\end{figure}
-
-\begin{figure}[htbp]
-\centerline{\includegraphics[width=0.48\textwidth]{images/importar_desde_Zotero.png}}
-\caption{Proceso de importación y gestión de referencias bibliográficas desde Zotero.}
-\label{fig:importzotero}
-\end{figure}
 
 \subsection{Artículos Analizados}
 
@@ -155,7 +135,7 @@ Se analizaron 10 artículos científicos que representan el estado actual de la 
 
 \subsection{Hallazgos Clave}
 
-\subsubsection{Tendencias Identificadas (2021-2025):}
+\subsubsection{Tendencias Identificadas (2021-2025)}
 
 \begin{enumerate}
 \item \textbf{Transición de ML Tradicional a Generative AI:} Estudios iniciales (2021-2022) enfatizaban Machine Learning y Deep Learning en tareas específicas. A partir de 2023-2024, giro pronunciado hacia Generative AI (LLMs), ampliando aplicaciones pero introduciendo incertidumbres sobre reproducibilidad.
@@ -171,7 +151,7 @@ Se analizaron 10 artículos científicos que representan el estado actual de la 
 
 La literatura reciente (2021-2025) demuestra que Machine Learning y Generative AI son técnicamente viables para automatizar tareas en desarrollo de software. Sin embargo, existe un vacío significativo respecto a cómo las organizaciones adoptan estas tecnologías de manera sostenible, cómo evoluciona el perfil profesional del ingeniero de software, qué competencias permanecen relevantes y qué barreras organizacionales limitan la adopción real.
 
-\subsubsection{Consecuencias de No Abordar el Problema:}
+\subsubsection{Consecuencias de No Abordar el Problema}
 
 \begin{itemize}
 \item \textbf{Técnico:} Adopción descoordinada de IA sin estándares de governance, reproducibilidad o seguridad.
@@ -181,9 +161,39 @@ La literatura reciente (2021-2025) demuestra que Machine Learning y Generative A
 \item \textbf{Organizacional:} Empresas adoptan IA sin estrategia integrada resultando en baja adopción real.
 \end{itemize}
 
-\subsubsection{Relevancia:}
+\subsubsection{Relevancia}
 
 Profesionales en formación requieren comprender cómo prepararse para un mercado laboral transformado por IA. Organizaciones empresariales necesitan guía basada en evidencia para adoptar estas tecnologías de manera confiable y efectiva. Académicamente, esta investigación cierra la brecha entre viabilidad técnica y adopción organizacional.
+
+El proceso de gestión bibliográfica se ilustra en las Figuras \ref{fig:zotero} a \ref{fig:importzotero}. La Fig. \ref{fig:zotero} muestra la organización de los artículos en Zotero, mientras que la Fig. \ref{fig:researchrabbit} ilustra el uso de Research Rabbit para explorar redes de citaciones. Adicionalmente, se empleó Connected Papers (Fig. \ref{fig:connectedpapers}) para visualizar relaciones temáticas entre los estudios seleccionados, y la Fig. \ref{fig:importzotero} evidencia el proceso de gestión bibliográfica.
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[width=0.8\columnwidth]{images/libreria_Zotero.png}
+\caption{Biblioteca de referencias en Zotero con los 10 artículos científicos organizados por relevancia y fecha de publicación.}
+\label{fig:zotero}
+\end{figure}
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[width=0.8\columnwidth]{images/Libreria_ResearchRabbit.png}
+\caption{Visualización de red de citaciones en Research Rabbit mostrando conexiones entre artículos relacionados.}
+\label{fig:researchrabbit}
+\end{figure}
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[width=0.45\columnwidth]{images/connectedpapers.png}
+\caption{Mapa de similitud de Connected Papers evidenciando relaciones temáticas entre los artículos revisados.}
+\label{fig:connectedpapers}
+\end{figure}
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[width=0.45\columnwidth]{images/importar_desde_Zotero.png}
+\caption{Proceso de importación y gestión de referencias bibliográficas desde Zotero hacia formato RIS.}
+\label{fig:importzotero}
+\end{figure}
 
 
 \section{Vacío de Investigación Identificado}
