@@ -39,7 +39,7 @@ email address or ORCID}
 \maketitle
 
 \begin{abstract}
-La adopción de tecnologías de Inteligencia Artificial (IA) en el desarrollo de software empresarial ha evolucionado significativamente en los últimos años. Aunque existen estudios sobre viabilidad técnica de Machine Learning y Deep Learning en tareas específicas de ingeniería de software, existe una brecha crítica en la literatura respecto a cómo estas tecnologías impactan la transformación organizacional, la evolución de competencias profesionales y la adopción sostenida en contextos empresariales reales. Este documento presenta la formulación del problema de investigación, la identificación del vacío científico y la propuesta de preguntas y objetivos de investigación que guiarán un estudio sobre el impacto de la IA en la ingeniería de software empresarial.
+La adopción de tecnologías de Inteligencia Artificial (IA) en el desarrollo de software empresarial ha evolucionado significativamente en los últimos años. Mediante revisión sistemática de 10 artículos científicos (2021-2025) publicados en IEEE, ACM y Scopus, se identifica que aunque existe amplia literatura sobre viabilidad técnica de Machine Learning y Deep Learning en tareas específicas de ingeniería de software, existe una brecha crítica respecto a cómo estas tecnologías impactan la transformación organizacional, evolución de competencias profesionales y adopción sostenida en contextos empresariales reales. Este documento presenta: (1) identificación y contextualización del problema mediante análisis de literatura, (2) detección del vacío de investigación, (3) formulación de preguntas de investigación, (4) definición de objetivos general y específicos, y (5) propuesta metodológica basada en estudio de caso múltiple. La investigación propuesta busca cerrar el gap entre viabilidad técnica demostrada y adopción organizacional efectiva, proporcionando evidencia empírica sobre transformación de competencias y prácticas emergentes en equipos de desarrollo empresariales.
 \end{abstract}
 
 \begin{IEEEkeywords}
@@ -52,23 +52,37 @@ La Inteligencia Artificial ha transformado el desarrollo de software empresarial
 
 Para profesionales en formación en Ingeniería de Software surgen interrogantes críticas: ¿Qué competencias permanecerán relevantes con IA? ¿Cómo transformarán estos cambios los perfiles profesionales? ¿Cómo pueden las organizaciones adoptar IA de manera confiable?
 
-Este documento presenta la \textbf{Fase 1} de un proyecto orientado a formular un problema de investigación riguroso. A través del análisis de 10 artículos científicos recientes (2021-2025), se identifican vacíos en la literatura que guíen futuras investigaciones.
+Este documento presenta la formulación completa de un problema de investigación riguroso en cinco fases: \textbf{(Fase 1)} Identificación y contextualización mediante revisión sistemática de 10 artículos científicos recientes (2021-2025), evidenciando cadenas de búsqueda, criterios de selección y hallazgos clave; \textbf{(Fase 2)} Detección del vacío de investigación mediante análisis comparativo, identificando que adopción organizacional y transformación de competencias están prácticamente ausentes de literatura; \textbf{(Fase 3)} Formulación de pregunta central y cinco preguntas específicas de investigación; \textbf{(Fase 4)} Definición de objetivo general y tres objetivos específicos coherentes con preguntas planteadas; y \textbf{(Fase 5)} Integración metodológica proponiendo estudio de caso múltiple cualitativo-interpretativo.
+
+La estructura sigue las directrices del proyecto académico de formulación del problema de investigación en Ingeniería de Software, cumpliendo con formato IEEE de doble columna para conferencias y demostrando rigor en cada fase del proceso investigativo.
 
 
-\section{Fase 1: Identificación y Contextualización del Problema}
+\section{Revisión Sistemática de Literatura}
 
-\subsection{Metodología de Búsqueda y Cadenas de Búsqueda}
+\subsection{Metodología de Búsqueda}
 
-La identificación de artículos científicos se realizó mediante una búsqueda sistemática en múltiples bases de datos y plataformas bibliográficas durante noviembre de 2025.
+Para contextualizar el problema de investigación, se realizó una búsqueda sistemática de literatura en múltiples bases de datos durante noviembre de 2025. El proceso de gestión bibliográfica se realizó mediante Zotero (Fig. \ref{fig:zotero}), complementado con herramientas de descubrimiento como Research Rabbit (Fig. \ref{fig:researchrabbit}) y Connected Papers (Fig. \ref{fig:connectedpapers}) para identificar redes de citaciones y literatura relacionada.
 
 \subsubsection{Bases de datos consultadas:}
 \begin{itemize}
 \item \textbf{OpenAlex API:} Base de datos bibliográfica integral que indexa publicaciones de ACM, IEEE, arXiv y Scopus (8 artículos recuperados).
 \item \textbf{CrossRef API:} Registro oficial de DOIs incluyendo IEEE, ACM, Springer (2 artículos recuperados).
 \item \textbf{Semantic Scholar API:} Análisis de contenido basado en ML para identificación de relevancia (consultas iniciales).
-\item \textbf{Zotero:} Herramienta de gestión bibliográfica para organización y exportación de referencias.
-\item \textbf{Research Rabbit:} Plataforma visual para descubrimiento de papers conectados y análisis de redes de citaciones.
+\item \textbf{Zotero:} Herramienta de gestión bibliográfica para organización y exportación de referencias (Fig. \ref{fig:zotero}).
+\item \textbf{Research Rabbit:} Plataforma visual para descubrimiento de papers conectados y análisis de redes de citaciones (Fig. \ref{fig:researchrabbit}).
 \end{itemize}
+
+\begin{figure}[htbp]
+\centerline{\includegraphics[width=0.48\textwidth]{images/libreria_Zotero.png}}
+\caption{Biblioteca de referencias en Zotero con los 10 artículos científicos organizados.}
+\label{fig:zotero}
+\end{figure}
+
+\begin{figure}[htbp]
+\centerline{\includegraphics[width=0.48\textwidth]{images/Libreria_ResearchRabbit.png}}
+\caption{Visualización de red de citaciones en Research Rabbit para descubrimiento de literatura relacionada.}
+\label{fig:researchrabbit}
+\end{figure}
 
 \subsubsection{Cadenas de búsqueda utilizadas:}
 
@@ -110,7 +124,19 @@ Las siguientes cadenas de búsqueda fueron aplicadas sistemáticamente:
 \item Papers sobre IA general sin conexión con ingeniería de software.
 \end{itemize}
 
-\subsection{1.2. Artículos Analizados (2021-2025)}
+\begin{figure}[htbp]
+\centerline{\includegraphics[width=0.48\textwidth]{images/connectedpapers.png}}
+\caption{Mapa de similitud de Connected Papers mostrando relaciones entre artículos revisados.}
+\label{fig:connectedpapers}
+\end{figure}
+
+\begin{figure}[htbp]
+\centerline{\includegraphics[width=0.48\textwidth]{images/importar_desde_Zotero.png}}
+\caption{Proceso de importación y gestión de referencias bibliográficas desde Zotero.}
+\label{fig:importzotero}
+\end{figure}
+
+\subsection{Artículos Analizados}
 
 Se analizaron 10 artículos científicos que representan el estado actual de la investigación en IA aplicada al desarrollo de software empresarial:
 
@@ -127,7 +153,7 @@ Se analizaron 10 artículos científicos que representan el estado actual de la 
 \item Yang et al. (2022) - A Survey on Deep Learning for Software Engineering
 \end{enumerate}
 
-\subsection{1.3. Hallazgos Clave de los 10 Artículos}
+\subsection{Hallazgos Clave}
 
 \subsubsection{Tendencias Identificadas (2021-2025):}
 
@@ -141,20 +167,109 @@ Se analizaron 10 artículos científicos que representan el estado actual de la 
 \item \textbf{Investigación Principalmente Académica:} Mayoría son case studies aislados o estudios teóricos. Falta investigación multiempresa y multisector.
 \end{enumerate}
 
-\subsection{1.4. Planteamiento del Problema de Investigación}
+\subsection{Planteamiento del Problema}
 
-La literatura reciente (2021-2025) demuestra que Machine Learning y Generative AI son técnicamente viables para automatizar tareas en desarrollo de software. Sin embargo, existe un vacío significativo respecto a:
+La literatura reciente (2021-2025) demuestra que Machine Learning y Generative AI son técnicamente viables para automatizar tareas en desarrollo de software. Sin embargo, existe un vacío significativo respecto a cómo las organizaciones adoptan estas tecnologías de manera sostenible, cómo evoluciona el perfil profesional del ingeniero de software, qué competencias permanecen relevantes y qué barreras organizacionales limitan la adopción real.
 
-\begin{enumerate}
-\item Cómo las organizaciones adoptan estas tecnologías de manera sostenible.
-\item Cómo evoluciona el perfil profesional del ingeniero de software.
-\item Qué competencias permanecen relevantes y cuáles se transforman.
-\item Qué barreras organizacionales limitan la adopción real.
-\end{enumerate}
+\subsubsection{Consecuencias de No Abordar el Problema:}
+
+\begin{itemize}
+\item \textbf{Técnico:} Adopción descoordinada de IA sin estándares de governance, reproducibilidad o seguridad.
+\item \textbf{Económico:} Brechas de competencia entre desarrolladores, desigualdad de oportunidades laborales.
+\item \textbf{Social y Laboral:} Incertidumbre y ansiedad en estudiantes sobre viabilidad de carreras en Ingeniería de Software.
+\item \textbf{Educativo:} Programas de formación desalineados con necesidades de industria.
+\item \textbf{Organizacional:} Empresas adoptan IA sin estrategia integrada resultando en baja adopción real.
+\end{itemize}
 
 \subsubsection{Relevancia:}
 
 Profesionales en formación requieren comprender cómo prepararse para un mercado laboral transformado por IA. Organizaciones empresariales necesitan guía basada en evidencia para adoptar estas tecnologías de manera confiable y efectiva. Académicamente, esta investigación cierra la brecha entre viabilidad técnica y adopción organizacional.
+
+
+\section{Vacío de Investigación Identificado}
+
+A partir del análisis sistemático de los 10 artículos revisados, emergen patrones consistentes que revelan vacíos críticos en la literatura actual sobre IA aplicada al desarrollo de software empresarial.
+
+La revisión sistemática evidencia seis vacíos críticos, siendo el más relevante la \textbf{ausencia de investigación sobre adopción organizacional y transformación de competencias}. Sofian et al. (2022) identifican explícitamente: ``La investigación sobre impacto en equipos, organización, y transformación digital es significativamente subrepresentada'' \cite{b7}.
+
+\subsection{Adopción y Transformación Organizacional}
+
+Mientras estudios como Wang et al. (2023) \cite{b6} demuestran viabilidad técnica de ML/DL en 1,428 papers, ninguno estudia cómo equipos reales gestionan la transición a workflows con IA. Russo (2024) \cite{b3} aborda adopción individual mediante Technology Acceptance Model, pero no examina dinámicas organizacionales completas: liderazgo, cultura, gestión del cambio.
+
+\subsection{Reproducibilidad y Confiabilidad Empresarial}
+
+Liu et al. (2021) \cite{b8} documentan que solo 10.2\% de papers reportan reproducibilidad y 62.6\% no comparten código/datos. Sin embargo, no existe investigación sobre cómo empresas reales manejan confiabilidad, governance y auditabilidad de modelos IA en producción. Hutchinson et al. (2021) \cite{b9} proponen frameworks de accountability, pero sin validación empresarial.
+
+\subsection{Transformación de Competencias Profesionales}
+
+\textbf{Ninguno de los 10 artículos} estudia cómo habilidades de ingenieros evolucionan, qué competencias permanecen críticas, o cómo se redefinen roles profesionales. Ebert \& Louridas (2023) \cite{b5} mencionan que ``productividad mejora especialmente en desarrolladores juniors'', pero no investigan sistemáticamente implicaciones para formación profesional o mercado laboral.
+
+Estos vacíos son críticos porque el éxito de tecnología en empresas depende no solo de capacidad técnica sino de factores socio-técnicos: cultura organizacional, gestión del cambio, evolución de competencias, gobernanza y confianza. Una tecnología puede ser técnicamente perfecta pero fallar organizacionalmente por baja adopción, desconfianza o abandono.
+
+
+\section{Preguntas y Objetivos de Investigación}
+
+Dados los vacíos identificados en la literatura, la presente investigación plantea la siguiente pregunta central: ¿Cómo impacta la adopción de Inteligencia Artificial generativa en la transformación organizacional, evolución de competencias profesionales y prácticas de desarrollo en equipos de software empresariales?
+
+\subsection{Preguntas Específicas}
+
+\begin{enumerate}
+\item ¿Cómo experimentan los equipos de desarrollo transformación en roles, responsabilidades y competencias requeridas tras adoptar herramientas de IA generativa?
+
+\item ¿Qué factores organizacionales, técnicos y sociales facilitan u obstaculizan adopción sostenida de IA en equipos de desarrollo empresarial?
+
+\item ¿Cuáles son las estrategias y prácticas emergentes que equipos utilizan para gestionar transición a workflows con IA, y cuáles son más efectivas?
+
+\item ¿Cuáles son las implicaciones de transformación digital inducida por IA para formación académica de ingenieros de software?
+
+\item ¿Cómo difieren patrones de adopción entre pequeñas empresas, medianas empresas y corporaciones multinacionales?
+\end{enumerate}
+
+\subsection{Objetivo General}
+
+Analizar el impacto de la adopción de Inteligencia Artificial generativa en la transformación organizacional, evolución de competencias profesionales y prácticas de desarrollo en equipos de software empresariales, mediante un estudio de caso múltiple que permita identificar factores críticos de éxito, barreras organizacionales y estrategias emergentes efectivas.
+
+\subsection{Objetivos Específicos}
+
+\begin{enumerate}
+\item \textbf{Caracterizar la transformación de competencias:} Identificar y documentar cómo roles, responsabilidades y competencias técnicas de ingenieros de software evolucionan tras adopción de herramientas IA generativa en contextos empresariales reales.
+
+\item \textbf{Identificar factores críticos de adopción:} Determinar factores organizacionales, técnicos y sociales que facilitan u obstaculizan adopción sostenida de IA en equipos de desarrollo, mediante análisis comparativo de casos múltiples.
+
+\item \textbf{Documentar prácticas emergentes efectivas:} Sistematizar estrategias y prácticas que equipos utilizan para gestionar transición a workflows con IA, evaluando su efectividad en diferentes contextos organizacionales (SMEs vs. corporaciones).
+\end{enumerate}
+
+
+\section{Propuesta Metodológica y Contribución Esperada}
+
+Para responder a las preguntas planteadas y alcanzar los objetivos propuestos, esta investigación proporcionará:
+
+Esta investigación proporcionará:
+
+\begin{enumerate}
+\item \textbf{Modelo Empírico de Adopción Organizacional:} Framework que integra factores técnicos, organizacionales, individuales e infraestructurales para adopción exitosa de IA en desarrollo de software.
+
+\item \textbf{Tipología de Evolución de Competencias:} Caracterización sistemática de cómo competencias profesionales se transforman, identificando habilidades que permanecen críticas, emergen o disminuyen en relevancia.
+
+\item \textbf{Guías Prácticas para Stakeholders:} Recomendaciones basadas en evidencia para equipos de desarrollo, CTOs, formadores académicos y profesionales en formación.
+\end{enumerate}
+
+\subsection{Diseño Metodológico}
+
+Se propone un \textbf{Estudio de Caso Múltiple (Cualitativo-Interpretativo)} con 4-5 equipos de desarrollo en empresas distintas, durante 9-12 meses. La metodología incluye:
+
+\begin{itemize}
+\item \textbf{Entrevistas semiestructuradas:} 15-20 por caso (desarrolladores, líderes técnicos, product owners).
+\item \textbf{Observación directa:} 8-12 observaciones de reuniones de planificación, code reviews, retrospectivas.
+\item \textbf{Análisis de artefactos:} GitHub logs, documentación interna, políticas sobre IA.
+\item \textbf{Análisis temático:} Codificación inductiva siguiendo principios de Grounded Theory.
+\end{itemize}
+
+\subsection{Conclusiones}
+
+La adopción de IA en desarrollo de software empresarial representa una transformación socio-técnica compleja que requiere investigación rigurosa más allá de la viabilidad técnica. A través de este documento se ha presentado la formulación completa del problema de investigación, desde la revisión sistemática de literatura que evidencia los vacíos críticos, hasta la propuesta de preguntas, objetivos y metodología que permitirán cerrar estas brechas.
+
+Los hallazgos de esta investigación contribuirán al cuerpo de conocimiento en Ingeniería de Software, informarán decisiones de adopción empresarial, guiarán formación académica y apoyarán a profesionales en transición laboral hacia un panorama redefinido por IA.
 
 
 \section*{References}
