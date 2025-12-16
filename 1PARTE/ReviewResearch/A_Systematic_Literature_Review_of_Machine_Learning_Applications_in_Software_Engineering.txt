@@ -1,0 +1,29 @@
+================================================================================
+LITERATURE REVIEW #7
+================================================================================
+
+TITLE:
+A Systematic Literature Review of Machine Learning Applications in Software Engineering
+
+AUTHORS:
+Houda Mezouar, Abdellatif El Afia
+
+YEAR: 2022
+VENUE: Lecture notes in networks and systems
+
+DOI: https://doi.org/10.1007/978-3-031-07969-6_24
+URL: https://openalex.org/W4285272911
+
+KEYWORDS:
+  - Computer science
+  - Software engineering
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Abstract not available.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2025-11-26T17:44:17.577506

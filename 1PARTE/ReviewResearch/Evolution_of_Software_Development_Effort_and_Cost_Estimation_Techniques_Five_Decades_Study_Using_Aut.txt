@@ -1,0 +1,32 @@
+================================================================================
+LITERATURE REVIEW #10
+================================================================================
+
+TITLE:
+Evolution of Software Development Effort and Cost Estimation Techniques: Five Decades Study Using Automated Text Mining Approach
+
+AUTHORS:
+Anil Jadhav, Mandeep Kaur, Farzana Akter
+
+YEAR: 2022
+VENUE: Mathematical Problems in Engineering
+
+DOI: https://doi.org/10.1155/2022/5782587
+URL: https://openalex.org/W4225279003
+
+KEYWORDS:
+  - COCOMO
+  - Computer science
+  - Field (mathematics)
+  - Artificial intelligence
+  - Data science
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Software development effort and cost estimation (SDECE) is one of the most important tasks in field software engineering. A large number research papers have been published on this topic last five decades. Investigating trends using a systematic literature review when such are very tedious time-consuming task. Therefore, paper, we propose generic automated text mining framework to investigate by analyzing title, author’s keywords, abstract papers. The proposed used select 1015 SDECE We identified popular techniques each decade understand how has evolved past It found that artificial neural network, fuzzy logic, regression, analogy-based approach, COCOMO methods for followed optimization, use case point, machine learning, function point analysis. NASA ISBSG dataset SDECE. MMRE, MRE, PRED accuracy measures Results validated comparing it with outcome previously work results consistent. also carried out detailed bibliometric analysis metareview survey This study significant new models estimations.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2025-11-26T17:44:17.578966

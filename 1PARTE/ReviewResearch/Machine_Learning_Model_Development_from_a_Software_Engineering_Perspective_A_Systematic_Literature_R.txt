@@ -1,0 +1,28 @@
+================================================================================
+LITERATURE REVIEW #16
+================================================================================
+
+TITLE:
+Machine Learning Model Development from a Software Engineering Perspective: A Systematic Literature Review
+
+AUTHORS:
+Giuliano Lorenzoni, Paulo S. C. Alencar, Nathalia Nascimento, Donald Cowan
+
+YEAR: 2021
+VENUE: arXiv (Cornell University)
+
+DOI: https://doi.org/10.48550/arxiv.2102.07574
+URL: https://openalex.org/W3130928145
+
+KEYWORDS:
+  N/A
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Data scientists often develop machine learning models to solve a variety of problems in the industry and academy but not without facing several challenges terms Model Development. The regarding Machine Learning Development involves fact that such professionals do realize they usually perform ad-hoc practices could be improved by adoption activities presented Software Engineering Lifecycle. Of course, since systems are different from traditional systems, some differences their respective development processes expected. In this context, paper is an effort investigate emerge during ML software engineering perspective focusing on understanding how developers benefit applying or adapting process workflow.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2025-11-26T17:33:52.456974

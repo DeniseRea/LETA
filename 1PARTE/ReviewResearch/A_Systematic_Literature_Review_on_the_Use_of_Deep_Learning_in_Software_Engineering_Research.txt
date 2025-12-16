@@ -1,0 +1,32 @@
+================================================================================
+LITERATURE REVIEW #1
+================================================================================
+
+TITLE:
+A Systematic Literature Review on the Use of Deep Learning in Software Engineering Research
+
+AUTHORS:
+Cody Watson, Nathan Cooper, David Nader Palacio, Kevin Moran, Denys Poshyvanyk
+
+YEAR: 2022
+VENUE: ACM Transactions on Software Engineering and Methodology
+
+DOI: https://doi.org/10.1145/3485275
+URL: https://openalex.org/W3084812981
+
+KEYWORDS:
+  - Computer science
+  - CLARITY
+  - Pace
+  - Popularity
+  - Software engineering
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+An increasingly popular set of techniques adopted by software engineering (SE) researchers to automate development tasks are those rooted in the concept Deep Learning (DL). The popularity such largely stems from their automated feature capabilities, which aid modeling artifacts. However, due rapid pace at DL have been adopted, it is difficult distill current successes, failures, and opportunities research landscape. In an effort bring clarity this cross-cutting area work, its modern inception present, article presents a systematic literature review intersection SE &amp; DL. canvasses work appearing most prominent conferences journals spans 128 papers across 23 unique tasks. We center our analysis around components learning , principles that governs application machine (ML) given problem domain, discussing several aspects surveyed granular level. end result roadmap both delineates foundations applied highlights likely areas fertile exploration for future.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2025-11-26T17:44:17.575325

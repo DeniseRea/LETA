@@ -1,0 +1,32 @@
+================================================================================
+LITERATURE REVIEW #6
+================================================================================
+
+TITLE:
+A systematic mapping study of source code representation for deep learning in software engineering
+
+AUTHORS:
+Peter Samoaa, Firas Bayram, Pasquale Salza, Philipp Leitner
+
+YEAR: 2022
+VENUE: IET Software
+
+DOI: https://doi.org/10.1049/sfw2.12064
+URL: https://openalex.org/W4281641613
+
+KEYWORDS:
+  - Computer science
+  - Source code
+  - Context (archaeology)
+  - Reuse
+  - Software
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Abstract The usage of deep learning (DL) approaches for software engineering has attracted much attention, particularly in source code modelling and analysis. However, order to use DL, needs be formatted fit the expected input form DL models. This problem is known as representation. Source can represented via different approaches, most importantly, tree‐based, token‐based, graph‐based approaches. We a systematic mapping study investigate i detail representation adopted 103 studies that context engineering. Thus, are collected from 2014 2021 14 journals 27 conferences. show each way representing provide different, yet orthogonal view same code. tasks might require (combinations of) depending on nature complexity task. Particularly, we it crucial define whether approach requires lexical, syntactical, or semantic information. Our analysis shows wide range representations combinations (hybrid representations) used solve common problems. also observe current research does not generally attempt transfer existing models other even though there contexts which these may useful. believe potential more reuse application when applying tasks.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2025-11-26T17:44:17.577004

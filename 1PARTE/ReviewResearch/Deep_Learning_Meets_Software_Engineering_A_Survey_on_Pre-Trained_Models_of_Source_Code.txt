@@ -1,0 +1,28 @@
+================================================================================
+LITERATURE REVIEW #12
+================================================================================
+
+TITLE:
+Deep Learning Meets Software Engineering: A Survey on Pre-Trained Models of Source Code
+
+AUTHORS:
+Changan Niu, C. Li, Bin Luo, Vincent Ng
+
+YEAR: 2022
+VENUE: Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence
+
+DOI: https://doi.org/10.24963/ijcai.2022/775
+URL: https://openalex.org/W4225407062
+
+KEYWORDS:
+  N/A
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Recent years have seen the successful application of deep learning to software engineering (SE). In particular, development and use pre-trained models source code has enabled state-of-the-art results be achieved on a wide variety SE tasks. This paper provides an overview this rapidly advancing field research reflects future directions.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2025-11-26T17:33:52.456476

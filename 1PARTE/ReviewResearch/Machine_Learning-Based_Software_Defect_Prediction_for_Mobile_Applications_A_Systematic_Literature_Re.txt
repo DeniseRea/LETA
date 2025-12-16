@@ -1,0 +1,32 @@
+================================================================================
+LITERATURE REVIEW #8
+================================================================================
+
+TITLE:
+Machine Learning-Based Software Defect Prediction for Mobile Applications: A Systematic Literature Review
+
+AUTHORS:
+Manzura Jorayeva, Akhan Akbulut, Cagatay Catal, Alok Mishra
+
+YEAR: 2022
+VENUE: Sensors
+
+DOI: https://doi.org/10.3390/s22072551
+URL: https://openalex.org/W4221019549
+
+KEYWORDS:
+  - Machine learning
+  - Artificial intelligence
+  - Computer science
+  - Artificial neural network
+  - Deep learning
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Software defect prediction studies aim to predict defect-prone components before the testing stage of software development process. The main benefit these models is that more resources can be allocated fault-prone modules effectively. While a few have been developed for mobile applications, systematic overview still missing. Therefore, we carried out Systematic Literature Review (SLR) study evaluate how machine learning has applied faults in applications. This defined nine research questions, and 47 relevant were selected from scientific databases respond questions. Results show most focused on Android applications (i.e., 48%), supervised 92%), object-oriented metrics mainly preferred. top five preferred algorithms are Naïve Bayes, Support Vector Machines, Logistic Regression, Artificial Neural Networks, Decision Trees. Researchers mostly Object-Oriented metrics. Only deep including Long Short-Term Memory (LSTM), Deep Belief Networks (DBN), (DNN). first systematically reviews It will pave way further fault help both researchers practitioners this field.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2025-11-26T17:44:17.577814

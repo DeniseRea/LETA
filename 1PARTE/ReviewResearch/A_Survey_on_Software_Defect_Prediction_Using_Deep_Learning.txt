@@ -1,0 +1,28 @@
+================================================================================
+LITERATURE REVIEW #15
+================================================================================
+
+TITLE:
+A Survey on Software Defect Prediction Using Deep Learning
+
+AUTHORS:
+Elena N. Akimova, Alexander Bersenev, Artem A. Deikov, К. С. Кобылкин, А. В. Коныгин, Ilya P. Mezentsev, Vladimir E. Misilov
+
+YEAR: 2021
+VENUE: Mathematics
+
+DOI: https://doi.org/10.3390/math9111180
+URL: https://openalex.org/W3164640227
+
+KEYWORDS:
+  N/A
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Defect prediction is one of the key challenges in software development and programming language research for improving quality reliability. The problem this area to properly identify defective source code with high accuracy. Developing a fault model challenging problem, many approaches have been proposed throughout history. recent breakthrough machine learning technologies, especially deep techniques, has led problems being solved by these methods. Our survey focuses on techniques defect prediction. We analyse works topic, study methods automatic semantic structural features from code, discuss open present trends field.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2025-11-26T17:33:52.456888

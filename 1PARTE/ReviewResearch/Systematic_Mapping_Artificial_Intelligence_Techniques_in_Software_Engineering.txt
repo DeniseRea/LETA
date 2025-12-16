@@ -1,0 +1,32 @@
+================================================================================
+LITERATURE REVIEW #4
+================================================================================
+
+TITLE:
+Systematic Mapping: Artificial Intelligence Techniques in Software Engineering
+
+AUTHORS:
+Hazrina Sofian, Nur Arzilawati Md Yunus, Rodina Ahmad
+
+YEAR: 2022
+VENUE: IEEE Access
+
+DOI: https://doi.org/10.1109/access.2022.3174115
+URL: https://openalex.org/W4285216652
+
+KEYWORDS:
+  - Computer science
+  - Social software engineering
+  - Software engineering
+  - Software development
+  - Applications of artificial intelligence
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Artificial Intelligence (AI) has become a core feature of today&#x2019;s real-world applications, making it trending topic within the software engineering (SE) community. The rise in availability AI techniques encompasses capability to make rapid, automated, impactful decisions and predictions, leading adoption SE. With industry revolution 4.0, role critical for developing productive, efficient, quality software. Thus, there is major need be applied enhance improve activities phases. Software developed through intelligent This paper concerns systematic mapping study that aimed characterize publication landscape engineering. Gaps are identified discussed by these against SE phases which they contributed. Many review papers have been produced only specific technique or phase activity. Hence, our best knowledge last decade, no fully explored overall trends their application all
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2025-11-26T17:44:17.576335

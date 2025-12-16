@@ -1,0 +1,32 @@
+================================================================================
+LITERATURE REVIEW #2
+================================================================================
+
+TITLE:
+A Survey on Deep Learning for Software Engineering
+
+AUTHORS:
+Yanming Yang, Xin Xia, David Lo, John Grundy
+
+YEAR: 2021
+VENUE: ACM Computing Surveys
+
+DOI: https://doi.org/10.1145/3505243
+URL: https://openalex.org/W4206238894
+
+KEYWORDS:
+  - Computer science
+  - Deep learning
+  - Artificial intelligence
+  - Machine learning
+  - Artificial neural network
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+In 2006, Geoffrey Hinton proposed the concept of training “Deep Neural Networks (DNNs)” and an improved model method to break bottleneck neural network development. More recently, introduction AlphaGo in 2016 demonstrated powerful learning ability deep its enormous potential. Deep has been increasingly used develop state-of-the-art software engineering (SE) research tools due boost performance for various SE tasks. There are many factors, e.g., selection, internal structure differences, optimization techniques, that may have impact on DNNs applied SE. Few works date focus summarizing, classifying, analyzing application techniques To fill this gap, we performed a survey analyze relevant studies published since 2006. We first provide example illustrate how then conduct background analysis (BA) primary present four questions describe trend (BA), summarize classify different (RQ1), data processing including collection, classification, pre-processing, representation (RQ2). RQ3, depicted range key topics using investigated relationships between DL-based adoption multiple factors (i.e., DL architectures, task types, problem types). also summarized commonly datasets RQ4, widely algorithms provided important evaluation metrics regression, recommendation, generation. Based our findings, set current challenges remaining be outline road map highlighting opportunities future work.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2025-11-26T17:44:17.575688

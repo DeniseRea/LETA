@@ -1,0 +1,32 @@
+================================================================================
+LITERATURE REVIEW #9
+================================================================================
+
+TITLE:
+Towards MLOps: A Framework and Maturity Model
+
+AUTHORS:
+Meenu Mary John, Helena Holmström Olsson, Jan Bosch
+
+YEAR: 2021
+VENUE: None
+
+DOI: https://doi.org/10.1109/seaa53835.2021.00050
+URL: https://openalex.org/W3210418146
+
+KEYWORDS:
+  - DevOps
+  - Capability Maturity Model
+  - Software deployment
+  - Maturity (psychological)
+  - Software development
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+The adoption of continuous software engineering practices such as DevOps (Development and Operations) in business operations has contributed to significantly shorter development deployment cycles. Recently, the term MLOps (Machine Learning gained increasing interest a practice that brings together data scientists teams. However, is still its infancy there are few common guidelines on how effectively integrate it into existing practices. In this paper, we conduct systematic literature review grey derive framework identifies activities involved stages which companies evolve they become more mature advanced. We validate three case show have managed adopt their large-scale companies. contribution paper threefold. First, contemporary provide an overview state-of-the-art MLOps. Based review, details machine learning models. Second, present maturity model outline different go through evolving Third, our embedded systems map model.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2025-11-26T17:44:17.578107

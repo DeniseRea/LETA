@@ -1,0 +1,28 @@
+================================================================================
+LITERATURE REVIEW #11
+================================================================================
+
+TITLE:
+A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering Research
+
+AUTHORS:
+Sicong Cao, Xiaobing Sun, Ratnadira Widyasari, David Lo, Xiaoxue Wu, Lili Bo, Jiale Zhang, Bin Li, Wei Liu, Di Wu, Yixin Chen
+
+YEAR: 2024
+VENUE: arXiv (Cornell University)
+
+DOI: https://doi.org/10.48550/arxiv.2401.14617
+URL: https://openalex.org/W4391335093
+
+KEYWORDS:
+  N/A
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+The remarkable achievements of Artificial Intelligence (AI) algorithms, particularly in Machine Learning (ML) and Deep (DL), have fueled their extensive deployment across multiple sectors, including Software Engineering (SE). However, due to black-box nature, these promising AI-driven SE models are still far from being deployed practice. This lack explainability poses unwanted risks for applications critical tasks, such as vulnerability detection, where decision-making transparency is paramount importance. paper endeavors elucidate this interdisciplinary domain by presenting a systematic literature review approaches that aim improve the AI within context SE. canvasses work appearing most prominent &amp; conferences journals, spans 108 papers 23 unique tasks. Based on three key Research Questions (RQs), we (1) summarize tasks XAI techniques shown success date; (2) classify analyze different techniques; (3) investigate existing evaluation approaches. our findings, identified set challenges remaining be addressed studies, together with guidelines highlighting potential opportunities deemed appropriate important future work.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2025-11-26T17:33:52.456392

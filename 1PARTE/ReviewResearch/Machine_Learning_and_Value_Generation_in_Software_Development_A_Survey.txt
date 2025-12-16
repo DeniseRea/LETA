@@ -1,0 +1,32 @@
+================================================================================
+LITERATURE REVIEW #5
+================================================================================
+
+TITLE:
+Machine Learning and Value Generation in Software Development: A Survey
+
+AUTHORS:
+Barakat J. Akinsanya, Luiz Jonatã Pires de Araújo, Mariia Charikova, Susanna Gimaeva, Alexandr Grichshenko, Adil Khan, Manuel Mazzara, N. Ozioma Okonicha, Daniil Shilintsev
+
+YEAR: 2021
+VENUE: Communications in computer and information science
+
+DOI: https://doi.org/10.1007/978-3-030-71472-7_3
+URL: https://openalex.org/W3179293854
+
+KEYWORDS:
+  - Toolbox
+  - Variety (cybernetics)
+  - Computer science
+  - Domain (mathematical analysis)
+  - Data science
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Abstract not available.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2025-11-26T17:44:17.576689

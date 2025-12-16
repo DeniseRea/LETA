@@ -1,0 +1,32 @@
+================================================================================
+LITERATURE REVIEW #3
+================================================================================
+
+TITLE:
+Machine/Deep Learning for Software Engineering: A Systematic Literature Review
+
+AUTHORS:
+Simin Wang, LiGuo Huang, Amiao Gao, Jidong Ge, Tengfei Zhang, Haitao Feng, Ishna Satyarth, Ming Li, He Zhang, Vincent Ng
+
+YEAR: 2022
+VENUE: IEEE Transactions on Software Engineering
+
+DOI: https://doi.org/10.1109/tse.2022.3173346
+URL: https://openalex.org/W4285141508
+
+KEYWORDS:
+  - Generalizability theory
+  - Interpretability
+  - Computer science
+  - Artificial intelligence
+  - Machine learning
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Since 2009, the deep learning revolution, which was triggered by introduction of ImageNet, has stimulated synergy between Software Engineering (SE) and Machine Learning (ML)/Deep (DL). Meanwhile, critical reviews have emerged that suggest ML/DL should be used cautiously. To improve applicability generalizability ML/DL-related SE studies, we conducted a 12-year Systematic Literature Review (SLR) on 1,428 papers published 2009 2020. Our trend analysis demonstrated impacts brought to SE. We examined complexity applying solutions problems how such led issues concerning reproducibility replicability studies in Specifically, investigated ML DL differ data preprocessing, model training, evaluation when applied tasks, what details need provided ensure study can reproduced or replicated. By categorizing rationales behind selection techniques into five themes, analyzed performance, robustness, interpretability, complexity, simplicity affected choices models.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2025-11-26T17:44:17.575991

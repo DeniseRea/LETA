@@ -1,0 +1,29 @@
+================================================================================
+LITERATURE REVIEW #17
+================================================================================
+
+TITLE:
+Generative Artificial Intelligence Use in Optimising Software Engineering Process: A Systematic Literature Review
+
+AUTHORS:
+Uldis Karlovs-Karlovskis
+
+YEAR: 2024
+VENUE: Applied Computer Systems
+
+DOI: 10.2478/acss-2024-0009
+URL: https://doi.org/10.2478/acss-2024-0009
+
+KEYWORDS:
+  N/A
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+<jats:title>Abstract</jats:title>
+               <jats:p>Generative AI is only a few years old but already being applied in Software Engineering (SE). This literature review examines the most popular SE sub-fields of such cases and research methods that are typically used. 117 studies starting from 2020 have been assessed, and literature review has shown that the most active research is ongoing in the code generation area. It is not clearly defined by researchers, but the majority of the methods can be assumed as experiments. It is concluded that researchers often do not define the used research method with exclusions such as literature review or opinion survey. However, different validation methods are highly valued and applied thoroughly.</jats:p>
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: CrossRef
+  Open Access: Yes
+  Retrieved: 2025-11-26T17:35:36.425804

@@ -1,0 +1,28 @@
+================================================================================
+LITERATURE REVIEW #13
+================================================================================
+
+TITLE:
+Survey of Deep Learning for Autonomous Surface Vehicles in Marine Environments
+
+AUTHORS:
+Yuanyuan Qiao, Jiaxin Yin, Wei Wang, Fábio Duarte, Jie Yang, Carlo Ratti
+
+YEAR: 2023
+VENUE: IEEE Transactions on Intelligent Transportation Systems
+
+DOI: https://doi.org/10.1109/tits.2023.3235911
+URL: https://openalex.org/W4319996475
+
+KEYWORDS:
+  N/A
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Within the next several years, there will be a high level of autonomous technology that available for widespread use, which reduce labor costs, increase safety, save energy, enable difficult unmanned tasks in harsh environments, and eliminate human error. Compared to software development other vehicles, maritime development, especially aging but still functional fleets, is described as being very early emerging phase. This presents great challenges opportunities researchers engineers develop systems. Recent progress sensor communication has introduced use surface vehicles (ASVs) applications such coastline surveillance, oceanographic observation, multi-vehicle cooperation, search rescue missions. Advanced artificial intelligence technology, deep learning (DL) methods conduct nonlinear mapping with self-learning representations, brought concept full autonomy one step closer reality. article reviews existing work on implementation DL fields related ASV. First, scope this after reviewing surveys ASV developments technologies, draws attention research gap between operations. Then, DL-based navigation, guidance, control (NGC) systems cooperative operations are presented. Finally, survey completed by highlighting current future directions.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2025-11-26T17:33:52.456574
