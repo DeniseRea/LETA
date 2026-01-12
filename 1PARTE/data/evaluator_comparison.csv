@@ -1,0 +1,128 @@
+Artículo;Evaluador 1;Evaluador 2;Acuerdo;Título
+1;Sí;Sí;✓;Exploring the Integration of Generative AI Tools in Software
+2;Sí;Sí;✓;Assessing GitHub Copilot in Solidity Development: Capabiliti
+3;Sí;Sí;✓;VSEST 29110 Tool: Using ChatGPT to Evaluate the Implementati
+4;Sí;Sí;✓;2024 IEEE/ACM 46th International Conference on Software Engi
+5;Sí;Sí;✓;Cypress Copilot: Development of an AI Assistant for Boosting
+6;Sí;Sí;✓;Analysis of ChatGPT-Generated Codes Across Multiple Programm
+7;Sí;No;✗;2024 IEEE/ACM International Workshop on Natural Language-Bas
+8;Sí;Sí;✓;Preconditions and Postconditions as Design Constraints for L
+9;Sí;Sí;✓;2024 IEEE/ACM 46th International Conference on Software Engi
+10;Sí;Sí;✓;2024 IEEE/ACM 46th International Conference on Software Engi
+11;Sí;Sí;✓;A Literature Review of Using Machine Learning in Software De
+12;Sí;Sí;✓;Analyzing LLM-Generated Code According to Four ISO/IEC 5055:
+13;Sí;Sí;✓;Requirements Engineering in Machine Learning Projects
+14;Sí;Sí;✓;CaPBug-A Framework for Automatic Bug Categorization and Prio
+15;No;No;✓;An Extended Survey Concerning the Significance of Artificial
+16;Sí;Sí;✓;Exploring the Landscape of Programming Language Identificati
+17;Sí;Sí;✓;Review and Empirical Analysis of Machine Learning-Based Soft
+18;Sí;Sí;✓;2022 IEEE/ACM 1st International Workshop on Software Enginee
+19;Sí;No;✗;2022 IEEE/ACM 4th International Workshop on Software Enginee
+20;Sí;Sí;✓;Improved Software Effort Estimation Through Machine Learning
+21;Sí;Sí;✓;Bridging Precision and Complexity: A Novel Machine Learning 
+22;Sí;Sí;✓;Test Suite Optimization Using Machine Learning Techniques: A
+23;Sí;Incierto;✗;Software-Engineering Design Patterns for Machine Learning Ap
+24;Sí;Sí;✓;Effective Software Effort Estimation Leveraging Machine Lear
+25;Sí;Sí;✓;Machine Learning Based Embedded Code Multi-Label Classificat
+26;Sí;Sí;✓;Identifying Non-Functional Requirements From Unconstrained D
+27;No;No;✓;Machine Learning Approaches to Code Similarity Measurement: 
+28;Sí;Sí;✓;Defect Detection and Correction in OpenMP: A Static Analysis
+29;Sí;Sí;✓;Leveraging Machine Learning for Enhanced Bug Triaging in Ope
+30;Sí;Sí;✓;Cloud-based machine learning for scalable classification of 
+31;Sí;Sí;✓;Evaluating time-dependent methods and seasonal effects in co
+32;Sí;No;✗;Training-free, Identity-preserving Image Editing for Fashion
+33;Sí;Sí;✓;Examining the impact of bias mitigation algorithms on the su
+34;No;No;✓;“Your AI is impressive, but my code does not have any bugs” 
+35;Sí;Sí;✓;Naming the Pain in machine learning-enabled systems engineer
+36;Sí;No;✗;Accountability in Code Review: The Role of Intrinsic Drivers
+37;No;No;✓;Securing social network user data in large language model de
+38;No;No;✓;Still just personal assistants? – A multiple case study of g
+39;Incierto;Incierto;✓;AI-Driven Optimization of Functional Feature Placement in Au
+40;No;No;✓;Automation in Construction (2000–2023): Science Mapping and 
+41;Sí;Sí;✓;RAGVA: Engineering retrieval augmented generation-based virt
+42;Sí;Sí;✓;PREDICTION OF SOFTWARE ANOMALIES METHODS BASED ON ENSEMBLE L
+43;Sí;Sí;✓;Copiloting the future: How generative AI transforms Software
+44;Sí;Sí;✓;Using artificial intelligence in software development proces
+45;Sí;Sí;✓;Emergence of Player Tactics by expert-guided Machine Learnin
+46;Sí;Sí;✓;AI in software programming: understanding emotional response
+47;Sí;Sí;✓;Using Machine Learning to Detect Vault (Anti-Forensic) Apps
+48;No;No;✓;Rich Data Versus Quantity of Data in Code Generation AI: A P
+49;Sí;Sí;✓;The Role of Artificial Intelligence in Computer Science Educ
+50;Sí;No;✗;LLMs: A game-changer for software engineers?
+51;Sí;Sí;✓;Risk management in the era of data-centric engineering
+52;Sí;Sí;✓;AI-Augmented Software Engineering: Revolutionizing or Challe
+53;Sí;Sí;✓;A multivocal literature review on the benefits and limitatio
+54;Sí;Sí;✓;Enabling efficient and low-effort decentralized federated le
+55;Sí;Sí;✓;What Gets Measured Gets Improved: Monitoring Machine Learnin
+56;Sí;No;✗;Comprehensive Bibliographic Survey and Forward-Looking Recom
+57;Sí;Sí;✓;AI-Driven Software Test Automation: An AI4SE-Oriented Survey
+58;Sí;Sí;✓;Overview of Artificial Intelligence Application Methods in S
+59;Sí;Sí;✓;Redefining the Programmer: Human-AI Collaboration, LLMs, and
+60;Sí;Sí;✓;Kolmogorov–Arnold Network for Transistor Compact Modeling
+61;Sí;Sí;✓;An Efficient Methodology for the Categorization of Software 
+62;Sí;Sí;✓;Managing expectations towards AI tools for software developm
+63;No;No;✓;Rethinking Technological Investment and Cost-Benefit: A Soft
+64;Sí;Sí;✓;Quality assurance strategies for machine learning applicatio
+65;No;Incierto;✗;An operational guide to translational clinical machine learn
+66;Sí;Sí;✓;Challenges and practices of deep learning model reengineerin
+67;Sí;Sí;✓;An architecture for model-based and intelligent automation i
+68;Sí;Incierto;✗;CausalOps — Towards an industrial lifecycle for causal proba
+69;Sí;Sí;✓;Challenges of Integrating Artificial Intelligence in Softwar
+70;Sí;Sí;✓;Increasing the Reliability of Software Systems Using a Large
+71;Sí;Sí;✓;Navigating the Complexity of Generative AI Adoption in Softw
+72;Sí;Sí;✓;Irrigation with Artificial Intelligence: Problems, Premises,
+73;Sí;Sí;✓;Intelligent Learning-Based Methods for Determining the Ideal
+74;Sí;Sí;✓;Model driven engineering for machine learning components: A 
+75;Sí;Sí;✓;Chatbot Design and Implementation: Towards an Operational Mo
+76;Sí;Sí;✓;Autonomous Vehicles: Evolution of Artificial Intelligence an
+77;Sí;No;✗;Towards a Distributed Digital Twin Framework for Predictive 
+78;No;No;✓;The Impact of Resource Allocation on the Machine Learning Li
+79;No;No;✓;The GenAI is out of the bottle: generative artificial intell
+80;Sí;Sí;✓;Automobile insurance fraud detection using data mining: A sy
+81;No;No;✓;Fairness-aware machine learning engineering: how far are we?
+82;Sí;Sí;✓;Implementing and Evaluating Automated Bug Triage in Industri
+83;Sí;Sí;✓;CODING WITH AI AS AN ASSISTANT: CAN AI GENERATE CONCISE COMP
+84;No;No;✓;Integrating Observability with DevOps Practices in Financial
+85;No;No;✓;Enhancing Secure Development in Globally Distributed Softwar
+86;No;No;✓;A Systematic Review of Adversarial Machine Learning Attacks,
+87;Sí;Incierto;✗;Continuous Software Engineering Practices in AI/ML Developme
+88;Sí;No;✗;Integrating Generative AI for Advancing Agile Software Devel
+89;Sí;Sí;✓;Digital Transformation in the Public Administrations: A Guid
+90;Sí;Sí;✓;Machine learning application development: practitioners’ ins
+91;Sí;Incierto;✗;Combining low-code development with ChatGPT to novel no-code
+92;No;No;✓;Automated detection, categorisation and developers’ experien
+93;Sí;Sí;✓;An empirical study of automated privacy requirements classif
+94;Sí;Sí;✓;Standards relevant to automated driving system safety: A sys
+95;Sí;Sí;✓;Requirements practices and gaps when engineering human-cente
+96;No;No;✓;An Intelligent Framework for Estimating Software Development
+97;Sí;Sí;✓;The pipeline for the continuous development of artificial in
+98;Sí;Sí;✓;Analysis and comparison of deep learning models for user sto
+99;Sí;No;✗;A Systematic Literature Review of AI-Based Software Requirem
+100;Sí;Sí;✓;Review Classification Based on Machine Learning: Classifying
+101;No;No;✓;An Extended Survey Concerning the Significance of Artificial
+102;Sí;Sí;✓;Requests classification in the customer service area for sof
+103;Sí;Sí;✓;A step toward building a unified framework for managing AI b
+104;Sí;Sí;✓;Effective Software Effort Estimation Leveraging Machine Lear
+105;No;No;✓;Predictive Analytics and Software Defect Severity: A Systema
+106;Sí;Sí;✓;Data-Oriented Software Development: The Industrial Landscape
+107;Sí;Sí;✓;A TDD Framework for Automated Monitoring in Internet of Thin
+108;Sí;No;✗;Towards a better blockchainification of supply chain applica
+109;No;No;✓;An integration engineering framework for machine learning in
+110;Sí;Sí;✓;Performance Analysis of Software Test Effort Estimation usin
+111;No;No;✓;Trends in Intelligent and AI-Based Software Engineering Proc
+112;Sí;Sí;✓;Risk Prediction Applied to Global Software Development using
+113;Sí;Incierto;✗;Toward Improving the Efficiency of Software Development Effo
+114;Sí;Sí;✓;Systematic Mapping: Artificial Intelligence Techniques in So
+115;Sí;Sí;✓;GELAB - The Cutting Edge of Grammatical Evolution
+116;Sí;Sí;✓;Swarm intelligence-based model for improving prediction perf
+117;Sí;Sí;✓;Collaborative Aspects of Open Data in Software Engineering
+118;Sí;Sí;✓;Enjoy your observability: an industrial survey of microservi
+119;Sí;Sí;✓;On misbehaviour and fault tolerance in machine learning syst
+120;Sí;No;✗;Identifying the use of anonymising proxies to conceal source
+121;Sí;Sí;✓;AI lifecycle models need to be revised: An exploratory study
+122;No;No;✓;Big Data analytics in Agile software development: A systemat
+123;Sí;Sí;✓;A Generic Framework and Library for Exploration of Small Mul
+124;Sí;Sí;✓;Robotic Automation of Software Testing From a Machine Learni
+125;Sí;Incierto;✗;The Development of the Open Machine-Learning-Based Anti-Spam
+126;Sí;No;✗;Toward a knowledge-based personalised recommender system for
+127;Sí;Sí;✓;Large scale quality transformation in hybrid development org

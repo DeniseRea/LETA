@@ -1,0 +1,1129 @@
+id;source;titulo;año;venue;relevance_score;crit_1_ia;crit_2_se;crit_3_empirical;crit_4_adoption;decision;reason;rayyan_note
+1;Scopus;Still just personal assistants? – A multiple case study of generative AI adoptio;2025;Information and Software Technology;95;Sí;Sí;Sí;No;Sí;Cumple 3/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: Sí
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: Cumple 3/4 criterios
+RELEVANCIA: 95/100
+"
+2;Scopus;Navigating the Complexity of Generative AI Adoption in Software Engineering;2024;ACM Transactions on Software Engineering and Metho;90;Sí;Sí;No;Sí;Sí;Cumple 3/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Sí
+RAZÓN: Cumple 3/4 criterios
+RELEVANCIA: 90/100
+"
+3;Scopus;AI-Augmented Software Engineering: Revolutionizing or Challenging Software Quali;2025;Journal of Software: Evolution and Process;85;No;Sí;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 85/100
+"
+4;Scopus;Copiloting the future: How generative AI transforms Software Engineering;2025;Information and Software Technology;75;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 75/100
+"
+5;IEEE;Exploring the Integration of Generative AI Tools in Software Testing Education: ;2025;IEEE Access;70;Sí;Sí;No;Sí;Sí;Cumple 3/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Sí
+RAZÓN: Cumple 3/4 criterios
+RELEVANCIA: 70/100
+"
+6;Scopus;Rich Data Versus Quantity of Data in Code Generation AI: A Paradigm Shift for He;2025;Blockchain in Healthcare Today;70;No;No;No;No;No;Cumple solo 0/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 0/4 criterios
+RELEVANCIA: 70/100
+"
+7;Scopus;LLMs: A game-changer for software engineers?;2025;BenchCouncil Transactions on Benchmarks, Standards;70;Sí;No;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 70/100
+"
+8;Scopus;Enabling efficient and low-effort decentralized federated learning with the Edge;2025;Information and Software Technology;65;Sí;No;No;Sí;Incierto;Cumple 2/4 criterios (parcial);"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Incierto
+RAZÓN: Cumple 2/4 criterios (parcial)
+RELEVANCIA: 65/100
+"
+9;Scopus;Redefining the Programmer: Human-AI Collaboration, LLMs, and Security in Modern ;2025;Computers, Materials and Continua;65;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 65/100
+"
+10;Scopus;Continuous Software Engineering Practices in AI/ML Development Past the Narrow L;2024;E-Informatica Software Engineering Journal;65;No;Sí;Sí;Sí;Sí;Cumple 3/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: Sí
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Sí
+RAZÓN: Cumple 3/4 criterios
+RELEVANCIA: 65/100
+"
+11;Scopus;Securing social network user data in large language model deployments: challenge;2025;Cluster Computing;60;Sí;Sí;No;Sí;Sí;Cumple 3/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Sí
+RAZÓN: Cumple 3/4 criterios
+RELEVANCIA: 60/100
+"
+12;Scopus;AI-Driven Software Test Automation: An AI4SE-Oriented Survey of Techniques, Tool;2025;IEEE Access;60;No;Sí;Sí;No;Incierto;Cumple 2/4 criterios (parcial);"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: Sí
+4. Adopción/Competencias: No
+
+DECISIÓN: Incierto
+RAZÓN: Cumple 2/4 criterios (parcial)
+RELEVANCIA: 60/100
+"
+13;Scopus;CODING WITH AI AS AN ASSISTANT: CAN AI GENERATE CONCISE COMPUTER CODE?;2024;Journal of Information Technology Education: Innov;60;Sí;Sí;Sí;No;Sí;Cumple 3/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: Sí
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: Cumple 3/4 criterios
+RELEVANCIA: 60/100
+"
+14;IEEE;VSEST 29110 Tool: Using ChatGPT to Evaluate the Implementation of the ISO/IEC 29;2024;IEEE Access;55;Sí;No;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 55/100
+"
+15;Scopus;Managing expectations towards AI tools for software development: a multiple-case;2025;Information Systems and e-Business Management;55;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 55/100
+"
+16;Scopus;Fairness-aware machine learning engineering: how far are we?;2024;Empirical Software Engineering;55;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 55/100
+"
+17;IEEE;2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE);2024;2024 IEEE/ACM 46th International Conference on Sof;50;Sí;Sí;No;Sí;Sí;Cumple 3/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Sí
+RAZÓN: Cumple 3/4 criterios
+RELEVANCIA: 50/100
+"
+18;IEEE;2024 IEEE/ACM International Workshop on Natural Language-Based Software Engineer;2024;2024 IEEE/ACM International Workshop on Natural La;50;Sí;No;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 50/100
+"
+19;Scopus;Cloud-based machine learning for scalable classification of software requirement;2025;Systems and Soft Computing;50;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 50/100
+"
+20;Scopus;Integrating Generative AI for Advancing Agile Software Development and Mitigatin;2024;International Journal of Advanced Computer Science;50;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 50/100
+"
+21;Scopus;Machine learning application development: practitioners’ insights;2023;Software Quality Journal;50;Sí;No;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 50/100
+"
+22;Scopus;Combining low-code development with ChatGPT to novel no-code approaches: A focus;2023;Intelligent Systems with Applications;50;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 50/100
+"
+23;IEEE;Preconditions and Postconditions as Design Constraints for LLM Code Generation;2025;IEEE Access;45;Sí;No;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 45/100
+"
+24;IEEE;2024 IEEE/ACM 46th International Conference on Software Engineering: New Ideas a;2024;2024 IEEE/ACM 46th International Conference on Sof;45;No;Sí;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 45/100
+"
+25;Scopus;Training-free, Identity-preserving Image Editing for Fashion Pose Alignment and ;2025;Expert Systems with Applications;45;No;No;No;Sí;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 45/100
+"
+26;Scopus;“Your AI is impressive, but my code does not have any bugs” managing false posit;2025;Science of Computer Programming;45;No;No;No;No;No;Cumple solo 0/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 0/4 criterios
+RELEVANCIA: 45/100
+"
+27;Scopus;Accountability in Code Review: The Role of Intrinsic Drivers and the Impact of L;2025;ACM Transactions on Software Engineering and Metho;45;No;No;No;No;No;Cumple solo 0/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 0/4 criterios
+RELEVANCIA: 45/100
+"
+28;Scopus;RAGVA: Engineering retrieval augmented generation-based virtual assistants in pr;2025;Journal of Systems and Software;45;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 45/100
+"
+29;Scopus;Using artificial intelligence in software development processes: Achievements an;2025;Sustainable Engineering and Innovation;45;No;Sí;Sí;No;Incierto;Cumple 2/4 criterios (parcial);"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: Sí
+4. Adopción/Competencias: No
+
+DECISIÓN: Incierto
+RAZÓN: Cumple 2/4 criterios (parcial)
+RELEVANCIA: 45/100
+"
+30;Scopus;A multivocal literature review on the benefits and limitations of industry-leadi;2025;Information and Software Technology;45;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 45/100
+"
+31;Scopus;An operational guide to translational clinical machine learning in academic medi;2024;npj Digital Medicine;45;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 45/100
+"
+32;Scopus;CausalOps — Towards an industrial lifecycle for causal probabilistic graphical m;2024;Information and Software Technology;45;No;No;No;Sí;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 45/100
+"
+33;Scopus;Chatbot Design and Implementation: Towards an Operational Model for Chatbots;2024;Information (Switzerland);45;Sí;No;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 45/100
+"
+34;IEEE;2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE);2024;2024 IEEE/ACM 46th International Conference on Sof;40;No;Sí;No;Sí;Incierto;Cumple 2/4 criterios (parcial);"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Incierto
+RAZÓN: Cumple 2/4 criterios (parcial)
+RELEVANCIA: 40/100
+"
+35;IEEE;Test Suite Optimization Using Machine Learning Techniques: A Comprehensive Study;2024;IEEE Access;40;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 40/100
+"
+36;Scopus;AI-Driven Optimization of Functional Feature Placement in Automotive CAD;2025;Algorithms;40;No;No;No;Sí;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 40/100
+"
+37;Scopus;Emergence of Player Tactics by expert-guided Machine Learning: An industry tower;2025;Entertainment Computing;40;Sí;No;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 40/100
+"
+38;Scopus;The Role of Artificial Intelligence in Computer Science Education: A Systematic ;2025;Applied Sciences (Switzerland);40;No;No;No;No;No;Cumple solo 0/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 0/4 criterios
+RELEVANCIA: 40/100
+"
+39;Scopus;Challenges and practices of deep learning model reengineering: A case study on c;2024;Empirical Software Engineering;40;Sí;Sí;Sí;Sí;Sí;Cumple 4/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: Sí
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Sí
+RAZÓN: Cumple 4/4 criterios
+RELEVANCIA: 40/100
+"
+40;Scopus;Autonomous Vehicles: Evolution of Artificial Intelligence and the Current Indust;2024;Big Data and Cognitive Computing;40;No;No;No;No;No;Cumple solo 0/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 0/4 criterios
+RELEVANCIA: 40/100
+"
+41;Scopus;Standards relevant to automated driving system safety: A systematic assessment;2023;Transportation Engineering;40;No;No;No;No;No;Cumple solo 0/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 0/4 criterios
+RELEVANCIA: 40/100
+"
+42;IEEE;Cypress Copilot: Development of an AI Assistant for Boosting Productivity and Tr;2025;IEEE Access;35;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 35/100
+"
+43;IEEE;Requirements Engineering in Machine Learning Projects;2023;IEEE Access;35;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 35/100
+"
+44;IEEE;Software-Engineering Design Patterns for Machine Learning Applications;2022;Computer;35;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 35/100
+"
+45;Scopus;Naming the Pain in machine learning-enabled systems engineering;2025;Information and Software Technology;35;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 35/100
+"
+46;Scopus;Automation in Construction (2000–2023): Science Mapping and Visualization of Jou;2025;Buildings;35;No;No;No;No;No;Cumple solo 0/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 0/4 criterios
+RELEVANCIA: 35/100
+"
+47;Scopus;Challenges of Integrating Artificial Intelligence in Software Project Planning: ;2024;Digital;35;No;Sí;No;Sí;Incierto;Cumple 2/4 criterios (parcial);"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Incierto
+RAZÓN: Cumple 2/4 criterios (parcial)
+RELEVANCIA: 35/100
+"
+48;Scopus;Automobile insurance fraud detection using data mining: A systematic literature ;2024;Intelligent Systems with Applications;35;No;No;No;Sí;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 35/100
+"
+49;Scopus;Enhancing Secure Development in Globally Distributed Software Product Lines: A M;2024;Computers, Materials and Continua;35;No;Sí;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 35/100
+"
+50;Scopus;A TDD Framework for Automated Monitoring in Internet of Things with Machine Lear;2022;Sensors;35;No;No;No;Sí;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 35/100
+"
+51;Scopus;Systematic Mapping: Artificial Intelligence Techniques in Software Engineering;2022;IEEE Access;35;No;Sí;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 35/100
+"
+52;IEEE;An Extended Survey Concerning the Significance of Artificial Intelligence and Ma;2023;IEEE Access;30;No;Sí;Sí;No;Incierto;Cumple 2/4 criterios (parcial);"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: Sí
+4. Adopción/Competencias: No
+
+DECISIÓN: Incierto
+RAZÓN: Cumple 2/4 criterios (parcial)
+RELEVANCIA: 30/100
+"
+53;Scopus;AI in software programming: understanding emotional responses to GitHub Copilot;2025;Information Technology and People;30;Sí;No;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 30/100
+"
+54;Scopus;Risk management in the era of data-centric engineering;2025;Data-Centric Engineering;30;No;Sí;Sí;Sí;Sí;Cumple 3/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: Sí
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Sí
+RAZÓN: Cumple 3/4 criterios
+RELEVANCIA: 30/100
+"
+55;Scopus;Automated detection, categorisation and developers’ experience with the violatio;2023;Empirical Software Engineering;30;No;No;No;No;No;Cumple solo 0/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 0/4 criterios
+RELEVANCIA: 30/100
+"
+56;Scopus;Requirements practices and gaps when engineering human-centered Artificial Intel;2023;Applied Soft Computing;30;No;Sí;Sí;Sí;Sí;Cumple 3/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: Sí
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Sí
+RAZÓN: Cumple 3/4 criterios
+RELEVANCIA: 30/100
+"
+57;Scopus;Swarm intelligence-based model for improving prediction performance of low-expec;2022;PeerJ Computer Science;30;No;Sí;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 30/100
+"
+58;Scopus;On misbehaviour and fault tolerance in machine learning systems;2022;Journal of Systems and Software;30;Sí;No;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 30/100
+"
+59;IEEE;Exploring the Landscape of Programming Language Identification With Machine Lear;2025;IEEE Access;25;No;Sí;Sí;No;Incierto;Cumple 2/4 criterios (parcial);"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: Sí
+4. Adopción/Competencias: No
+
+DECISIÓN: Incierto
+RAZÓN: Cumple 2/4 criterios (parcial)
+RELEVANCIA: 25/100
+"
+60;IEEE;2022 IEEE/ACM 1st International Workshop on Software Engineering for Responsible;2022;2022 IEEE/ACM 1st International Workshop on Softwa;25;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 25/100
+"
+61;IEEE;2022 IEEE/ACM 4th International Workshop on Software Engineering Research and Pr;2022;2022 IEEE/ACM 4th International Workshop on Softwa;25;Sí;Sí;No;Sí;Sí;Cumple 3/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Sí
+RAZÓN: Cumple 3/4 criterios
+RELEVANCIA: 25/100
+"
+62;Scopus;Comprehensive Bibliographic Survey and Forward-Looking Recommendations for Softw;2025;IEEE Access;25;No;Sí;Sí;Sí;Sí;Cumple 3/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: Sí
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Sí
+RAZÓN: Cumple 3/4 criterios
+RELEVANCIA: 25/100
+"
+63;Scopus;Enjoy your observability: an industrial survey of microservice tracing and analy;2022;Empirical Software Engineering;25;No;No;Sí;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: Sí
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 25/100
+"
+64;IEEE;Bridging Precision and Complexity: A Novel Machine Learning Approach for Ambigui;2025;IEEE Access;20;Sí;No;No;Sí;Incierto;Cumple 2/4 criterios (parcial);"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Incierto
+RAZÓN: Cumple 2/4 criterios (parcial)
+RELEVANCIA: 20/100
+"
+65;Scopus;Examining the impact of bias mitigation algorithms on the sustainability of ML-e;2025;Journal of Systems and Software;20;Sí;No;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 20/100
+"
+66;Scopus;PREDICTION OF SOFTWARE ANOMALIES METHODS BASED ON ENSEMBLE LEARNING METHODS;2025;Kufa Journal of Engineering;20;No;No;No;No;No;Cumple solo 0/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 0/4 criterios
+RELEVANCIA: 20/100
+"
+67;Scopus;What Gets Measured Gets Improved: Monitoring Machine Learning Applications in Th;2025;IEEE Access;20;Sí;No;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 20/100
+"
+68;Scopus;Overview of Artificial Intelligence Application Methods in Software Development;2025;Informatica (Slovenia);20;No;Sí;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 20/100
+"
+69;Scopus;Quality assurance strategies for machine learning applications in big data analy;2024;Journal of Big Data;20;Sí;No;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 20/100
+"
+70;Scopus;An architecture for model-based and intelligent automation in DevOps;2024;Journal of Systems and Software;20;No;Sí;No;Sí;Incierto;Cumple 2/4 criterios (parcial);"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Incierto
+RAZÓN: Cumple 2/4 criterios (parcial)
+RELEVANCIA: 20/100
+"
+71;Scopus;Intelligent Learning-Based Methods for Determining the Ideal Team Size in Agile ;2024;Biomimetics;20;No;Sí;No;Sí;Incierto;Cumple 2/4 criterios (parcial);"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Incierto
+RAZÓN: Cumple 2/4 criterios (parcial)
+RELEVANCIA: 20/100
+"
+72;Scopus;Model driven engineering for machine learning components: A systematic literatur;2024;Information and Software Technology;20;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 20/100
+"
+73;Scopus;The Impact of Resource Allocation on the Machine Learning Lifecycle: Bridging th;2024;Business and Information Systems Engineering;20;Sí;No;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 20/100
+"
+74;Scopus;Implementing and Evaluating Automated Bug Triage in Industrial Projects;2024;IEEE Access;20;No;Sí;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 20/100
+"
+75;Scopus;An Extended Survey Concerning the Significance of Artificial Intelligence and Ma;2023;IEEE Access;20;No;Sí;Sí;No;Incierto;Cumple 2/4 criterios (parcial);"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: Sí
+4. Adopción/Competencias: No
+
+DECISIÓN: Incierto
+RAZÓN: Cumple 2/4 criterios (parcial)
+RELEVANCIA: 20/100
+"
+76;Scopus;An Intelligent Framework for Estimating Software Development Projects using Mach;2023;International Journal on Recent and Innovation Tre;15;No;Sí;No;Sí;Incierto;Cumple 2/4 criterios (parcial);"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Incierto
+RAZÓN: Cumple 2/4 criterios (parcial)
+RELEVANCIA: 15/100
+"
+77;IEEE;Assessing GitHub Copilot in Solidity Development: Capabilities, Testing, and Bug;2024;IEEE Access;10;Sí;Sí;No;Sí;Sí;Cumple 3/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Sí
+RAZÓN: Cumple 3/4 criterios
+RELEVANCIA: 10/100
+"
+78;IEEE;Review and Empirical Analysis of Machine Learning-Based Software Effort Estimati;2024;IEEE Access;10;Sí;No;Sí;No;Incierto;Cumple 2/4 criterios (parcial);"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: No
+3. Evidencia Empírica: Sí
+4. Adopción/Competencias: No
+
+DECISIÓN: Incierto
+RAZÓN: Cumple 2/4 criterios (parcial)
+RELEVANCIA: 10/100
+"
+79;IEEE;Improved Software Effort Estimation Through Machine Learning: Challenges, Applic;2024;IEEE Access;10;Sí;Sí;No;Sí;Sí;Cumple 3/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Sí
+RAZÓN: Cumple 3/4 criterios
+RELEVANCIA: 10/100
+"
+80;IEEE;Machine Learning Approaches to Code Similarity Measurement: A Systematic Review;2025;IEEE Access;10;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 10/100
+"
+81;IEEE;Defect Detection and Correction in OpenMP: A Static Analysis and Machine Learnin;2025;IEEE Access;10;No;No;Sí;Sí;Incierto;Cumple 2/4 criterios (parcial);"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: Sí
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Incierto
+RAZÓN: Cumple 2/4 criterios (parcial)
+RELEVANCIA: 10/100
+"
+82;Scopus;Using Machine Learning to Detect Vault (Anti-Forensic) Apps;2025;Future Internet;10;Sí;No;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 10/100
+"
+83;Scopus;An Efficient Methodology for the Categorization of Software Requirements Using N;2025;IEEE Access;10;No;No;No;No;No;Cumple solo 0/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 0/4 criterios
+RELEVANCIA: 10/100
+"
+84;Scopus;Irrigation with Artificial Intelligence: Problems, Premises, Promises;2024;Human-Centric Intelligent Systems;10;Sí;No;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 10/100
+"
+85;Scopus;Integrating Observability with DevOps Practices in Financial Services Technologi;2024;International Journal of Advanced Computer Science;10;No;Sí;Sí;Sí;Sí;Cumple 3/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: Sí
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Sí
+RAZÓN: Cumple 3/4 criterios
+RELEVANCIA: 10/100
+"
+86;Scopus;Digital Transformation in the Public Administrations: A Guided Tour for Computer;2024;IEEE Access;10;No;No;No;No;No;Cumple solo 0/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 0/4 criterios
+RELEVANCIA: 10/100
+"
+87;Scopus;An integration engineering framework for machine learning in healthcare;2022;Frontiers in Digital Health;10;Sí;Sí;No;Sí;Sí;Cumple 3/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: Sí
+
+DECISIÓN: Sí
+RAZÓN: Cumple 3/4 criterios
+RELEVANCIA: 10/100
+"
+88;Scopus;GELAB - The Cutting Edge of Grammatical Evolution;2022;IEEE Access;10;No;No;No;No;No;Cumple solo 0/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 0/4 criterios
+RELEVANCIA: 10/100
+"
+89;Scopus;The pipeline for the continuous development of artificial intelligence models—Cu;2023;Journal of Systems and Software;5;No;No;No;No;No;Cumple solo 0/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 0/4 criterios
+RELEVANCIA: 5/100
+"
+90;Scopus;Requests classification in the customer service area for software companies usin;2023;PeerJ Computer Science;5;No;No;No;No;No;Cumple solo 0/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 0/4 criterios
+RELEVANCIA: 5/100
+"
+91;Scopus;A step toward building a unified framework for managing AI bias;2023;PeerJ Computer Science;5;No;No;No;No;No;Cumple solo 0/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 0/4 criterios
+RELEVANCIA: 5/100
+"
+92;Scopus;Towards a better blockchainification of supply chain applications;2022;Systems and Soft Computing;0;No;No;No;No;No;Cumple solo 0/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: No
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 0/4 criterios
+RELEVANCIA: 0/100
+"
+93;Scopus;Risk Prediction Applied to Global Software Development using Machine Learning Me;2022;International Journal of Advanced Computer Science;0;Sí;Sí;No;No;Sí;IA + SE + criterios adicionales;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: Sí
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: Sí
+RAZÓN: IA + SE + criterios adicionales
+RELEVANCIA: 0/100
+"
+94;Scopus;Toward Improving the Efficiency of Software Development Effort Estimation via Cl;2022;IEEE Access;0;No;Sí;No;No;No;Cumple solo 1/4 criterios;"[SCREENING] 2025-12-16
+
+CRITERIOS DE INCLUSIÓN:
+1. IA/ML Explícito: No
+2. Contexto SE: Sí
+3. Evidencia Empírica: No
+4. Adopción/Competencias: No
+
+DECISIÓN: No
+RAZÓN: Cumple solo 1/4 criterios
+RELEVANCIA: 0/100
+"
