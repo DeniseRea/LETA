@@ -1,0 +1,28 @@
+================================================================================
+LITERATURE REVIEW #4
+================================================================================
+
+TITLE:
+IoT-Based Plant Disease Detection using Machine Learning: A Systematic Literature Review
+
+AUTHORS:
+Abdallah Mohammad, Derar Eleyan, Amna Eleyan, Tarek Bejaoui
+
+YEAR: 2024
+VENUE: 2024 International Conference on Smart Applications, Communications and Networking (SmartNets)
+
+DOI: 10.1109/smartnets61466.2024.10577751
+URL: https://doi.org/10.1109/smartnets61466.2024.10577751
+
+KEYWORDS:
+  N/A
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Abstract not available.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: CrossRef
+  Open Access: Yes
+  Retrieved: 2026-01-12T17:17:39.251874

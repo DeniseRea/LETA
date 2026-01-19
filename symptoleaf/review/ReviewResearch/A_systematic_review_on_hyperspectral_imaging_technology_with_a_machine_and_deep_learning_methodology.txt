@@ -1,0 +1,32 @@
+================================================================================
+LITERATURE REVIEW #6
+================================================================================
+
+TITLE:
+A systematic review on hyperspectral imaging technology with a machine and deep learning methodology for agricultural applications
+
+AUTHORS:
+Atiya Khan, Amol D. Vibhute, Shankar Mali, Chandrashekhar H. Patil
+
+YEAR: 2022
+VENUE: Ecological Informatics
+
+DOI: https://doi.org/10.1016/j.ecoinf.2022.101678
+URL: https://openalex.org/W4280638333
+
+KEYWORDS:
+  - Hyperspectral imaging
+  - Artificial intelligence
+  - Computer science
+  - Precision agriculture
+  - Machine learning
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Abstract not available.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2026-01-12T17:22:57.603568

@@ -1,0 +1,28 @@
+================================================================================
+LITERATURE REVIEW #1
+================================================================================
+
+TITLE:
+Plant disease detection with machine and deep learning: a tertiary systematic literature review
+
+AUTHORS:
+D. van Teeffelen, Ö. Babur, K.E. Bennin
+
+YEAR: 2025
+VENUE: Precision agriculture 25 (SET TWO VOLUMES)
+
+DOI: 10.1163/9789004725232_035
+URL: https://doi.org/10.1163/9789004725232_035
+
+KEYWORDS:
+  N/A
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Abstract not available.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: CrossRef
+  Open Access: Yes
+  Retrieved: 2026-01-12T17:17:39.250512

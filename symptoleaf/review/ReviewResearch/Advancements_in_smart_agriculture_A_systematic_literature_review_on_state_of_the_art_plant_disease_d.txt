@@ -1,0 +1,29 @@
+================================================================================
+LITERATURE REVIEW #2
+================================================================================
+
+TITLE:
+Advancements in smart agriculture: A systematic literature review on state‐of‐the‐art plant disease detection with computer vision
+
+AUTHORS:
+Esra Yilmaz, Sevim Ceylan Bocekci, Cengiz Safak, Kazim Yildiz
+
+YEAR: 2025
+VENUE: IET Computer Vision
+
+DOI: 10.1049/cvi2.70004
+URL: https://doi.org/10.1049/cvi2.70004
+
+KEYWORDS:
+  N/A
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+<jats:title>Abstract</jats:title>
+                  <jats:p>In an era of rapid digital transformation, ensuring sustainable and traceable food production is more crucial than ever. Plant diseases, a major threat to agriculture, lead to significant losses in crops and financial damage. Standard techniques for detecting diseases, though widespread, are lengthy and intensive work, especially in extensive agricultural settings. This systematic literature review examines the cutting‐edge technologies in smart agriculture specifically computer vision, robotics, deep learning (DL), and Internet of Things (IoT) that are reshaping plant disease detection and management. By analysing 198 studies published between 2021 and 2023, from an initial pool of 19,838 papers, the authors reveal the dominance of DL, particularly with datasets such as PlantVillage, and highlight critical challenges, including dataset limitations, lack of geographical diversity, and the scarcity of real‐world field data. Moreover, the authors explore the promising role of IoT, robotics, and drones in enhancing early disease detection, although the high costs and technological gaps present significant barriers for small‐scale farmers, especially in developing countries. Through the preferred reporting items for systematic reviews and meta‐analyses methodology, this review synthesises these findings, identifying key trends, uncovering research gaps, and offering actionable insights for the future of plant disease management in smart agriculture.</jats:p>
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: CrossRef
+  Open Access: Yes
+  Retrieved: 2026-01-12T17:17:39.250777

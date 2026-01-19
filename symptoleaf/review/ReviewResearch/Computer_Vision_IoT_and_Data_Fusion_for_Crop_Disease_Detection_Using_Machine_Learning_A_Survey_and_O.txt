@@ -1,0 +1,32 @@
+================================================================================
+LITERATURE REVIEW #5
+================================================================================
+
+TITLE:
+Computer Vision, IoT and Data Fusion for Crop Disease Detection Using Machine Learning: A Survey and Ongoing Research
+
+AUTHORS:
+Maryam Ouhami, Adel Hafiane, Youssef Es-Saady, Mohamed El Hajji, Raphaël Canals
+
+YEAR: 2021
+VENUE: Remote Sensing
+
+DOI: https://doi.org/10.3390/rs13132486
+URL: https://openalex.org/W3174385379
+
+KEYWORDS:
+  - Computer science
+  - Sensor fusion
+  - Context (archaeology)
+  - Artificial intelligence
+  - Data science
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Crop diseases constitute a serious issue in agriculture, affecting both quality and quantity of agriculture production. Disease control has been research object many scientific technologic domains. Technological advances sensors, data storage, computing resources artificial intelligence have shown enormous potential to effectively. A growing body literature recognizes the importance using from different types sensors machine learning approaches build models for detection, prediction, analysis, assessment, etc. However, increasing number diversity studies requires review further developments contributions this area. This paper reviews state-of-the-art methods that use sources, applied plant disease detection. It lists traditional deep associated with main acquisition modalities, namely IoT, ground imaging, unmanned aerial vehicle imaging satellite imaging. In addition, study examines role fusion ongoing context highlights advantage intelligent techniques, heterogeneous improve health status prediction presents challenges facing field. The concludes discussion several current issues trends.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2026-01-12T17:18:16.671038

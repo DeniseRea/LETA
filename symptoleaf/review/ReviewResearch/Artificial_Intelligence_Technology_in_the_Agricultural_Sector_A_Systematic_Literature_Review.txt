@@ -1,0 +1,32 @@
+================================================================================
+LITERATURE REVIEW #7
+================================================================================
+
+TITLE:
+Artificial Intelligence Technology in the Agricultural Sector: A Systematic Literature Review
+
+AUTHORS:
+Ersin Elbaşı, Nour Mostafa, Zakwan Al-Arnaout, Aymen I. Zreikat, Elda Cina, Greeshma Varghese, Ahmed Younes Shdefat, Ahmet E. Topcu, Wiem Abdelbaki, Shinu Mathew, Chamseddine Zaki
+
+YEAR: 2022
+VENUE: IEEE Access
+
+DOI: https://doi.org/10.1109/access.2022.3232485
+URL: https://openalex.org/W4312708943
+
+KEYWORDS:
+  - Computer science
+  - Agriculture
+  - Data science
+  - Biology
+  - Ecology
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Due to the increasing global population and growing demand for food worldwide as well changes in weather conditions availability of water, artificial intelligence (AI) such expert systems, natural language processing, speech recognition, machine vision have changed not only quantity but also quality work agricultural sector. Researchers scientists are now moving toward utilization new IoT technologies smart farming help farmers use AI technology development improved seeds, crop protection, fertilizers. This will improve farmers&#x2019; profitability overall economy country. is emerging three major categories agriculture, namely soil monitoring, predictive analytics, robotics. In this regard, increasingly adopting sensors sampling gather data be used by farm management systems further investigations analyses. article contributes field surveying applications It starts with background information on AI, including a discussion all methods utilized industry, learning, IoT, image computer vision. A comprehensive literature review then provided, addressing how researchers effectively collection using sensors, robots, monitoring crops irrigation leakage. shown that while utilizing applications, quality, productivity, sustainability maintained. Finally, we explore benefits challenges together comparison several methodologies applied farming, processing.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2026-01-12T17:22:57.603748

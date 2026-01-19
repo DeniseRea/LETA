@@ -1,0 +1,28 @@
+================================================================================
+LITERATURE REVIEW #3
+================================================================================
+
+TITLE:
+Precision agriculture in the age of AI: A systematic review of machine learning methods for crop disease detection
+
+AUTHORS:
+Munir Majdalawieh, Carla Martins, Mohammed Radi, Maher Alaraj, Shafaq Khan
+
+YEAR: 2025
+VENUE: Smart Agricultural Technology
+
+DOI: 10.1016/j.atech.2025.101491
+URL: https://doi.org/10.1016/j.atech.2025.101491
+
+KEYWORDS:
+  N/A
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Abstract not available.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: CrossRef
+  Open Access: Yes
+  Retrieved: 2026-01-12T17:17:39.251376

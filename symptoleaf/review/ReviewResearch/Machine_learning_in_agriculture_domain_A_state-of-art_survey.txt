@@ -1,0 +1,32 @@
+================================================================================
+LITERATURE REVIEW #10
+================================================================================
+
+TITLE:
+Machine learning in agriculture domain: A state-of-art survey
+
+AUTHORS:
+Vishal Meshram, Kailas Patil, Vidula Meshram, Dinesh Bhagwan Hanchate, S.D. Ramkteke
+
+YEAR: 2021
+VENUE: Artificial Intelligence in the Life Sciences
+
+DOI: https://doi.org/10.1016/j.ailsci.2021.100010
+URL: https://openalex.org/W3201835768
+
+KEYWORDS:
+  - Agriculture
+  - Agricultural economics
+  - Business
+  - Agricultural engineering
+  - Computer science
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Food is considered as a basic need of human being which can be satisfied through farming. Agriculture not only fulfills humans’ needs, but also source employment worldwide. backbone economy and in the developing countries like India. contributes 15.4% GDP activities are broadly categorized into three major areas: pre-harvesting, harvesting post harvesting. Advancement area machine learning has helped improving gains agriculture. Machine current technology benefiting farmers to minimize losses farming by providing rich recommendations insights about crops. This paper presents an extensive survey latest application agriculture alleviate problems areas post-harvesting. Application allows more efficient precise with less manpower high quality production.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2026-01-12T17:22:57.604220

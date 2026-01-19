@@ -1,0 +1,226 @@
+[
+  {
+    "title": "Plant disease detection with machine and deep learning: a tertiary systematic literature review",
+    "authors": [
+      "D. van Teeffelen",
+      "Ö. Babur",
+      "K.E. Bennin"
+    ],
+    "year": 2025,
+    "doi": "10.1163/9789004725232_035",
+    "url": "https://doi.org/10.1163/9789004725232_035",
+    "abstract": null,
+    "keywords": [],
+    "venue": "Precision agriculture 25 (SET TWO VOLUMES)",
+    "open_access": true,
+    "source": "CrossRef",
+    "retrieved_at": "2026-01-12T17:17:39.250512"
+  },
+  {
+    "title": "Advancements in smart agriculture: A systematic literature review on state‐of‐the‐art plant disease detection with computer vision",
+    "authors": [
+      "Esra Yilmaz",
+      "Sevim Ceylan Bocekci",
+      "Cengiz Safak",
+      "Kazim Yildiz"
+    ],
+    "year": 2025,
+    "doi": "10.1049/cvi2.70004",
+    "url": "https://doi.org/10.1049/cvi2.70004",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>In an era of rapid digital transformation, ensuring sustainable and traceable food production is more crucial than ever. Plant diseases, a major threat to agriculture, lead to significant losses in crops and financial damage. Standard techniques for detecting diseases, though widespread, are lengthy and intensive work, especially in extensive agricultural settings. This systematic literature review examines the cutting‐edge technologies in smart agriculture specifically computer vision, robotics, deep learning (DL), and Internet of Things (IoT) that are reshaping plant disease detection and management. By analysing 198 studies published between 2021 and 2023, from an initial pool of 19,838 papers, the authors reveal the dominance of DL, particularly with datasets such as PlantVillage, and highlight critical challenges, including dataset limitations, lack of geographical diversity, and the scarcity of real‐world field data. Moreover, the authors explore the promising role of IoT, robotics, and drones in enhancing early disease detection, although the high costs and technological gaps present significant barriers for small‐scale farmers, especially in developing countries. Through the preferred reporting items for systematic reviews and meta‐analyses methodology, this review synthesises these findings, identifying key trends, uncovering research gaps, and offering actionable insights for the future of plant disease management in smart agriculture.</jats:p>",
+    "keywords": [],
+    "venue": "IET Computer Vision",
+    "open_access": true,
+    "source": "CrossRef",
+    "retrieved_at": "2026-01-12T17:17:39.250777"
+  },
+  {
+    "title": "Precision agriculture in the age of AI: A systematic review of machine learning methods for crop disease detection",
+    "authors": [
+      "Munir Majdalawieh",
+      "Carla Martins",
+      "Mohammed Radi",
+      "Maher Alaraj",
+      "Shafaq Khan"
+    ],
+    "year": 2025,
+    "doi": "10.1016/j.atech.2025.101491",
+    "url": "https://doi.org/10.1016/j.atech.2025.101491",
+    "abstract": null,
+    "keywords": [],
+    "venue": "Smart Agricultural Technology",
+    "open_access": true,
+    "source": "CrossRef",
+    "retrieved_at": "2026-01-12T17:17:39.251376"
+  },
+  {
+    "title": "IoT-Based Plant Disease Detection using Machine Learning: A Systematic Literature Review",
+    "authors": [
+      "Abdallah Mohammad",
+      "Derar Eleyan",
+      "Amna Eleyan",
+      "Tarek Bejaoui"
+    ],
+    "year": 2024,
+    "doi": "10.1109/smartnets61466.2024.10577751",
+    "url": "https://doi.org/10.1109/smartnets61466.2024.10577751",
+    "abstract": null,
+    "keywords": [],
+    "venue": "2024 International Conference on Smart Applications, Communications and Networking (SmartNets)",
+    "open_access": true,
+    "source": "CrossRef",
+    "retrieved_at": "2026-01-12T17:17:39.251874"
+  },
+  {
+    "title": "Computer Vision, IoT and Data Fusion for Crop Disease Detection Using Machine Learning: A Survey and Ongoing Research",
+    "authors": [
+      "Maryam Ouhami",
+      "Adel Hafiane",
+      "Youssef Es-Saady",
+      "Mohamed El Hajji",
+      "Raphaël Canals"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3390/rs13132486",
+    "url": "https://openalex.org/W3174385379",
+    "abstract": "Crop diseases constitute a serious issue in agriculture, affecting both quality and quantity of agriculture production. Disease control has been research object many scientific technologic domains. Technological advances sensors, data storage, computing resources artificial intelligence have shown enormous potential to effectively. A growing body literature recognizes the importance using from different types sensors machine learning approaches build models for detection, prediction, analysis, assessment, etc. However, increasing number diversity studies requires review further developments contributions this area. This paper reviews state-of-the-art methods that use sources, applied plant disease detection. It lists traditional deep associated with main acquisition modalities, namely IoT, ground imaging, unmanned aerial vehicle imaging satellite imaging. In addition, study examines role fusion ongoing context highlights advantage intelligent techniques, heterogeneous improve health status prediction presents challenges facing field. The concludes discussion several current issues trends.",
+    "keywords": [
+      "Computer science",
+      "Sensor fusion",
+      "Context (archaeology)",
+      "Artificial intelligence",
+      "Data science"
+    ],
+    "venue": "Remote Sensing",
+    "open_access": false,
+    "source": "OpenAlex",
+    "retrieved_at": "2026-01-12T17:18:16.671038"
+  },
+  {
+    "title": "A systematic review on hyperspectral imaging technology with a machine and deep learning methodology for agricultural applications",
+    "authors": [
+      "Atiya Khan",
+      "Amol D. Vibhute",
+      "Shankar Mali",
+      "Chandrashekhar H. Patil"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1016/j.ecoinf.2022.101678",
+    "url": "https://openalex.org/W4280638333",
+    "abstract": null,
+    "keywords": [
+      "Hyperspectral imaging",
+      "Artificial intelligence",
+      "Computer science",
+      "Precision agriculture",
+      "Machine learning"
+    ],
+    "venue": "Ecological Informatics",
+    "open_access": false,
+    "source": "OpenAlex",
+    "retrieved_at": "2026-01-12T17:22:57.603568"
+  },
+  {
+    "title": "Artificial Intelligence Technology in the Agricultural Sector: A Systematic Literature Review",
+    "authors": [
+      "Ersin Elbaşı",
+      "Nour Mostafa",
+      "Zakwan Al-Arnaout",
+      "Aymen I. Zreikat",
+      "Elda Cina",
+      "Greeshma Varghese",
+      "Ahmed Younes Shdefat",
+      "Ahmet E. Topcu",
+      "Wiem Abdelbaki",
+      "Shinu Mathew",
+      "Chamseddine Zaki"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1109/access.2022.3232485",
+    "url": "https://openalex.org/W4312708943",
+    "abstract": "Due to the increasing global population and growing demand for food worldwide as well changes in weather conditions availability of water, artificial intelligence (AI) such expert systems, natural language processing, speech recognition, machine vision have changed not only quantity but also quality work agricultural sector. Researchers scientists are now moving toward utilization new IoT technologies smart farming help farmers use AI technology development improved seeds, crop protection, fertilizers. This will improve farmers&#x2019; profitability overall economy country. is emerging three major categories agriculture, namely soil monitoring, predictive analytics, robotics. In this regard, increasingly adopting sensors sampling gather data be used by farm management systems further investigations analyses. article contributes field surveying applications It starts with background information on AI, including a discussion all methods utilized industry, learning, IoT, image computer vision. A comprehensive literature review then provided, addressing how researchers effectively collection using sensors, robots, monitoring crops irrigation leakage. shown that while utilizing applications, quality, productivity, sustainability maintained. Finally, we explore benefits challenges together comparison several methodologies applied farming, processing.",
+    "keywords": [
+      "Computer science",
+      "Agriculture",
+      "Data science",
+      "Biology",
+      "Ecology"
+    ],
+    "venue": "IEEE Access",
+    "open_access": false,
+    "source": "OpenAlex",
+    "retrieved_at": "2026-01-12T17:22:57.603748"
+  },
+  {
+    "title": "Machine Learning for Detection and Prediction of Crop Diseases and Pests: A Comprehensive Survey",
+    "authors": [
+      "Tiago Domingues",
+      "Tomás Brandão",
+      "João C. Ferreira"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/agriculture12091350",
+    "url": "https://openalex.org/W4294325784",
+    "abstract": "Considering the population growth rate of recent years, a doubling current worldwide crop productivity is expected to be needed by 2050. Pests and diseases are major obstacle achieving this outcome. Therefore, it very important develop efficient methods for automatic detection, identification, prediction pests in agricultural crops. To perform such automation, Machine Learning (ML) techniques can used derive knowledge relationships from data that being worked on. This paper presents literature review on ML sector, focusing tasks classification, pests, with an emphasis tomato survey aims contribute development smart farming precision agriculture promoting will allow farmers decrease use pesticides chemicals while preserving improving their quality production.",
+    "keywords": [
+      "Agriculture",
+      "Productivity",
+      "Identification (biology)",
+      "Agricultural productivity",
+      "Automation"
+    ],
+    "venue": "Agriculture",
+    "open_access": false,
+    "source": "OpenAlex",
+    "retrieved_at": "2026-01-12T17:22:57.603942"
+  },
+  {
+    "title": "Trends in vision-based machine learning techniques for plant disease identification: A systematic review",
+    "authors": [
+      "Poornima Singh Thakur",
+      "Pritee Khanna",
+      "Tanuja Sheorey",
+      "Aparajita Ojha"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1016/j.eswa.2022.118117",
+    "url": "https://openalex.org/W4285011278",
+    "abstract": null,
+    "keywords": [
+      "Computer science",
+      "Machine learning",
+      "Artificial intelligence",
+      "Field (mathematics)",
+      "Scarcity"
+    ],
+    "venue": "Expert Systems with Applications",
+    "open_access": false,
+    "source": "OpenAlex",
+    "retrieved_at": "2026-01-12T17:22:57.604087"
+  },
+  {
+    "title": "Machine learning in agriculture domain: A state-of-art survey",
+    "authors": [
+      "Vishal Meshram",
+      "Kailas Patil",
+      "Vidula Meshram",
+      "Dinesh Bhagwan Hanchate",
+      "S.D. Ramkteke"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.1016/j.ailsci.2021.100010",
+    "url": "https://openalex.org/W3201835768",
+    "abstract": "Food is considered as a basic need of human being which can be satisfied through farming. Agriculture not only fulfills humans’ needs, but also source employment worldwide. backbone economy and in the developing countries like India. contributes 15.4% GDP activities are broadly categorized into three major areas: pre-harvesting, harvesting post harvesting. Advancement area machine learning has helped improving gains agriculture. Machine current technology benefiting farmers to minimize losses farming by providing rich recommendations insights about crops. This paper presents an extensive survey latest application agriculture alleviate problems areas post-harvesting. Application allows more efficient precise with less manpower high quality production.",
+    "keywords": [
+      "Agriculture",
+      "Agricultural economics",
+      "Business",
+      "Agricultural engineering",
+      "Computer science"
+    ],
+    "venue": "Artificial Intelligence in the Life Sciences",
+    "open_access": false,
+    "source": "OpenAlex",
+    "retrieved_at": "2026-01-12T17:22:57.604220"
+  }
+]

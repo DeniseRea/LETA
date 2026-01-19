@@ -1,0 +1,32 @@
+================================================================================
+LITERATURE REVIEW #8
+================================================================================
+
+TITLE:
+Machine Learning for Detection and Prediction of Crop Diseases and Pests: A Comprehensive Survey
+
+AUTHORS:
+Tiago Domingues, Tomás Brandão, João C. Ferreira
+
+YEAR: 2022
+VENUE: Agriculture
+
+DOI: https://doi.org/10.3390/agriculture12091350
+URL: https://openalex.org/W4294325784
+
+KEYWORDS:
+  - Agriculture
+  - Productivity
+  - Identification (biology)
+  - Agricultural productivity
+  - Automation
+
+ABSTRACT:
+--------------------------------------------------------------------------------
+Considering the population growth rate of recent years, a doubling current worldwide crop productivity is expected to be needed by 2050. Pests and diseases are major obstacle achieving this outcome. Therefore, it very important develop efficient methods for automatic detection, identification, prediction pests in agricultural crops. To perform such automation, Machine Learning (ML) techniques can used derive knowledge relationships from data that being worked on. This paper presents literature review on ML sector, focusing tasks classification, pests, with an emphasis tomato survey aims contribute development smart farming precision agriculture promoting will allow farmers decrease use pesticides chemicals while preserving improving their quality production.
+--------------------------------------------------------------------------------
+
+METADATA:
+  Source: OpenAlex
+  Open Access: No
+  Retrieved: 2026-01-12T17:22:57.603942

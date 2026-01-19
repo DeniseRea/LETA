@@ -1,0 +1,181 @@
+[
+  {
+    "title": "Transfer Learning for Multi-Crop Leaf Disease Image Classification using Convolutional Neural Network VGG",
+    "authors": [
+      "Ananda S. Paymode",
+      "Vandana B. Malode"
+    ],
+    "year": 2022,
+    "doi": "10.1016/j.aiia.2021.12.002",
+    "url": "https://doi.org/10.1016/j.aiia.2021.12.002",
+    "abstract": null,
+    "open_access": true,
+    "agriculture_relevant": true,
+    "source": "CrossRef",
+    "retrieved_at": "2026-01-12T17:17:00.628441",
+    "enterprise_relevant": false
+  },
+  {
+    "title": "Deep Learning-Based Hair Disease Classification: A Benchmark Study of CNN, ResNet, and EfficientNet",
+    "authors": [
+      "Shivali Chopra",
+      "Mohit Arora",
+      "Dharmendra Pathak"
+    ],
+    "year": 2025,
+    "doi": "10.1109/icrito66076.2025.11241293",
+    "url": "https://doi.org/10.1109/icrito66076.2025.11241293",
+    "abstract": null,
+    "open_access": true,
+    "agriculture_relevant": true,
+    "source": "CrossRef",
+    "retrieved_at": "2026-01-12T17:17:00.629055",
+    "enterprise_relevant": false
+  },
+  {
+    "title": "Deep Learning Image Classification Abiotic Plant Disease Detection Classification Using MobileNet",
+    "authors": [
+      "Ritu Aggarwal",
+      "Eshaan Aggarwal",
+      "Anurag Jain",
+      "Rajanikanth Aluvalu",
+      "Uma Maheswari",
+      "Tanupriya Choudhury"
+    ],
+    "year": 2024,
+    "doi": "10.1109/ictacs62700.2024.10841037",
+    "url": "https://doi.org/10.1109/ictacs62700.2024.10841037",
+    "abstract": null,
+    "open_access": true,
+    "agriculture_relevant": true,
+    "source": "CrossRef",
+    "retrieved_at": "2026-01-12T17:17:00.629406",
+    "enterprise_relevant": false
+  },
+  {
+    "title": "A Transfer Learning Approach for Mango Leaf Disease Classification Using Convolutional Neural Networks",
+    "authors": [
+      "Md. Shahin Reja",
+      "Md. Rashed",
+      "Mysha Islam Kakon"
+    ],
+    "year": 2025,
+    "doi": "10.20944/preprints202506.1860.v1",
+    "url": "https://doi.org/10.20944/preprints202506.1860.v1",
+    "abstract": "<jats:p>Pests that live on mango leaves are bad for both the safety of our food and the growth of our business. It is most common for powdery mildery, golmachi, bacterial canker, and anthracnose to be found on mango leaves in Bangladesh. If these illnesses are caught early, they can make people more productive. However, this can't be done quickly and correctly by hand. This study suggests a method that uses CNN and transfer learning to find infections before they can spread. The data set came from the Mango farm and several fields. Our goal is to quickly and accurately find mango diseases so that they can help the growing business and save farmers a lot of time and work. It was ResNet50, MobileNetV2, DenseNet201, MobileNetV3, and VGG16 that we used as transfer learning models. We used different activation functions, like elu and ReLu, as well as sigmoid and softmax functions for the thick layer to sort the model into groups. Based on the f1 Score, accuracy, memory, and precision, the suggested way is a better model than the current models. Among this model, the ResNet50 model provided better results, with 96.49% accuracy.</jats:p>",
+    "open_access": true,
+    "agriculture_relevant": true,
+    "source": "CrossRef",
+    "retrieved_at": "2026-01-12T17:17:00.629541",
+    "enterprise_relevant": false
+  },
+  {
+    "title": "Transfer Learning for Multi-Crop Leaf Disease Image Classification using Convolutional Neural Network VGG",
+    "authors": [
+      "Ananda S. Paymode",
+      "Vandana B. Malode"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1016/j.aiia.2021.12.002",
+    "url": "https://openalex.org/W4206338051",
+    "abstract": "In recent times, the use of artificial intelligence (AI) in agriculture has become most important. The technology adoption if creatively approached. Controlling on diseased leaves during growing stages crops is a crucial step. disease detection, classification, and analysis at an early stage, as well possible solutions, are always helpful agricultural progress. detection classification different crops, especially tomatoes grapes, major emphasis our proposed research. important objective to forecast sort illness that would affect grapes tomato stage. Convolutional Neural Network (CNN) methods used for detecting Multi-Crops Leaf Disease (MCLD). features extraction images using deep learning-based model classified sick healthy leaves. CNN based Visual Geometry Group (VGG) improved performance measures. dataset considered training testing model. measure parameters, i.e., accuracy, sensitivity, specificity precision, recall F1-score were calculated monitored. main research with make on-going improvements performance. designed classifies disease-affected greater accuracy. experiment achieved accuracy 98.40% 95.71% tomatoes. directly supports increasing food production agriculture.",
+    "open_access": false,
+    "agriculture_relevant": true,
+    "source": "OpenAlex",
+    "retrieved_at": "2026-01-12T17:17:07.707344",
+    "enterprise_relevant": false
+  },
+  {
+    "title": "Multi-Plant and Multi-Crop Leaf Disease Detection and Classification using Deep Neural Networks, Machine Learning, Image Processing with Precision Agriculture - A Review",
+    "authors": [
+      "Yogesh H. Bhosale",
+      "Shrinivas R. Zanwar",
+      "Syed S. Ali",
+      "Nagesh S. Vaidya",
+      "Rajesh A Auti",
+      "Deepakkumar H. Patil"
+    ],
+    "year": 2023,
+    "doi": "10.1109/iccci56745.2023.10128246",
+    "url": "https://doi.org/10.1109/iccci56745.2023.10128246",
+    "abstract": null,
+    "open_access": true,
+    "agriculture_relevant": true,
+    "source": "CrossRef",
+    "retrieved_at": "2026-01-12T17:21:37.662059",
+    "enterprise_relevant": false
+  },
+  {
+    "title": "VGG-ICNN: A Lightweight CNN model for crop disease identification",
+    "authors": [
+      "Poornima Singh Thakur",
+      "Tanuja Sheorey",
+      "Aparajita Ojha"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.1007/s11042-022-13144-z",
+    "url": "https://openalex.org/W4281846758",
+    "abstract": null,
+    "open_access": false,
+    "agriculture_relevant": true,
+    "source": "OpenAlex",
+    "retrieved_at": "2026-01-12T17:22:05.940413",
+    "enterprise_relevant": false
+  },
+  {
+    "title": "Deep Learning-Based Leaf Disease Detection in Crops Using Images for Agricultural Applications",
+    "authors": [
+      "J. Andrew",
+      "Jennifer Eunice",
+      "Daniela Elena Popescu",
+      "M. Kalpana Chowdary",
+      "D. Jude Hemanth"
+    ],
+    "year": 2022,
+    "doi": "https://doi.org/10.3390/agronomy12102395",
+    "url": "https://openalex.org/W4303579256",
+    "abstract": "The agricultural sector plays a key role in supplying quality food and makes the greatest contribution to growing economies populations. Plant disease may cause significant losses production eradicate diversity species. Early diagnosis of plant diseases using accurate or automatic detection techniques can enhance minimize economic losses. In recent years, deep learning has brought tremendous improvements recognition accuracy image classification object systems. Hence, this paper, we utilized convolutional neural network (CNN)-based pre-trained models for efficient identification. We focused on fine tuning hyperparameters popular models, such as DenseNet-121, ResNet-50, VGG-16, Inception V4. experiments were carried out PlantVillage dataset, which 54,305 samples different species 38 classes. performance model was evaluated through accuracy, sensitivity, specificity, F1 score. A comparative analysis also performed with similar state-of-the-art studies. proved that DenseNet-121 achieved 99.81% higher superior models.",
+    "open_access": false,
+    "agriculture_relevant": true,
+    "source": "OpenAlex",
+    "retrieved_at": "2026-01-12T17:22:05.940825",
+    "enterprise_relevant": false
+  },
+  {
+    "title": "Real-Time Plant Disease Dataset Development and Detection of Plant Disease Using Deep Learning",
+    "authors": [
+      "Diana Susan Joseph",
+      "Pranav M. Pawar",
+      "Kaustubh Chakradeo"
+    ],
+    "year": 2024,
+    "doi": "https://doi.org/10.1109/access.2024.3358333",
+    "url": "https://openalex.org/W4391235397",
+    "abstract": "Agriculture plays a significant role in meeting food needs and providing security for the increasingly growing global population, which has increased by 0.88&#x0025; since 2022. Plant diseases can reduce production affect security. Worldwide crop loss due to plant disease is estimated be around 14.1&#x0025;. The lack of proper identification at early stages infection result inappropriate control measures. Therefore, automatic diagnosis are highly recommended. Lack availability large amounts data that not processed extent one main challenges diagnosis. In current manuscript, we developed datasets grains specifically rice, wheat, maize address identified challenges. consider common (two bacterial two fungal four maize, wheat) yields cause damage whole plant. were applied eight fine-tuned deep learning models with same training hyperparameters. experimental results based on show that, while recognizing leaf diseases, Xception MobileNet performed best testing accuracy 0.9580 0.9464 respectively. Similarly, wheat MobileNetV2 0.9632 0.9628 Inception V3 best, 0.9728 0.9620, respectively, rice diseases. research also proposes new convolutional neural network (CNN) model trained from scratch all three grain developed. proposed performs well shows 0.9704, 0.9706, 0.9808 respectively datasets.",
+    "open_access": false,
+    "agriculture_relevant": true,
+    "source": "OpenAlex",
+    "retrieved_at": "2026-01-12T17:22:05.941222",
+    "enterprise_relevant": false
+  },
+  {
+    "title": "Multi-Level Deep Learning Model for Potato Leaf Disease Recognition",
+    "authors": [
+      "Javed Rashid",
+      "Imran Khan",
+      "Ghulam Ali",
+      "Sultan H. Almotiri",
+      "Mohammed A. Al Ghamdi",
+      "Khalid Masood"
+    ],
+    "year": 2021,
+    "doi": "https://doi.org/10.3390/electronics10172064",
+    "url": "https://openalex.org/W3195199539",
+    "abstract": "Potato leaf disease detection in an early stage is challenging because of variations crop species, diseases symptoms and environmental factors. These factors make it difficult to detect potato the stage. Various machine learning techniques have been developed diseases. However, existing methods cannot species general these models are trained tested on images plant leaves a specific region. In this research, multi-level deep model for recognition has developed. At first level, extracts from image using YOLOv5 segmentation technique. second novel technique convolutional neural network blight late images. The proposed was dataset. dataset contains 4062 collected Central Punjab region Pakistan. achieved 99.75% accuracy performance also evaluated PlantVillage compared with state-of-the-art significantly concerning computational cost.",
+    "open_access": false,
+    "agriculture_relevant": true,
+    "source": "OpenAlex",
+    "retrieved_at": "2026-01-12T17:22:05.941515",
+    "enterprise_relevant": false
+  }
+]
